@@ -1,0 +1,61 @@
+#content {
+    margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+    #content {
+        min-height: 600px;
+    }
+}
+
+@media (min-width: 768px) {
+    #navbar-top > .container > .navbar-collapse {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+#sidebar-toggle {
+    color: #9d9d9d;
+    position: relative;
+    padding: 15px;
+    background-color: transparent;
+    background-image: none;
+    border: 0 solid transparent;
+    border-radius: 4px;
+    line-height: 20px;
+}
+
+@media (min-width: 768px) {
+    #main {
+        margin-left: 190px;
+    }
+
+    #sidebar {
+        width: 190px;
+        left: 0;
+        position: fixed;
+        height: 100%;
+        background-color: #414141;
+    }
+}
+
+#growl-messages {
+    position: fixed;
+    top: 60px;
+    right: 1%;
+    z-index: 20000;
+}
+
+#growl-messages .growl-custom-success,
+#growl-messages .growl-custom-error {
+    position: relative;
+    min-height: 0;
+    color: white;
+    overflow: hidden;
+    margin: 0 0 5px 0;
+}
+
+#sql-dump-table {
+    margin-top: 10px;
+}

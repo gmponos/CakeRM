@@ -1,0 +1,30 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-15 14:49+0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: View/Layouts/dashboard.ctp:6
+#: View/Layouts/default.ctp:6
+#: View/Layouts/pages.ctp:6
+msgid "CRM"
+msgstr ""
+
+#: View/Layouts/error.ctp:18
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: webroot/test.php:95
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

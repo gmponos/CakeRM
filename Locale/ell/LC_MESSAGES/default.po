@@ -1,0 +1,3075 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-15 14:49+0300\n"
+"PO-Revision-Date: 2014-10-15 14:55+0200\n"
+"Last-Translator: Μπόνος Γεώργιος <gmponos@gmail.com>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: gre\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.9\n"
+
+#: Controller/AppointmentsController.php:36;70;141;176;214
+msgid "Invalid appointment"
+msgstr ""
+
+#: Controller/AppointmentsController.php:50;74;156;190
+msgid "The appointment has been saved."
+msgstr ""
+
+#: Controller/AppointmentsController.php:53;77;159;193
+msgid "The appointment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AppointmentsController.php:218
+msgid "The appointment has been deleted."
+msgstr ""
+
+#: Controller/AppointmentsController.php:220
+msgid "The appointment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BusinessTypesController.php:32;62;108;138;176
+msgid "Invalid business type"
+msgstr ""
+
+#: Controller/BusinessTypesController.php:48;68;124;144
+msgid "The business type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BusinessTypesController.php:179
+msgid "Business type is not deleted"
+msgstr ""
+
+#: Controller/BusinessesController.php:38;78;149;196;227;267;302;380;412;427
+#: Controller/ContactsController.php:290
+msgid "Invalid business"
+msgstr ""
+
+#: Controller/BusinessesController.php:56;84;245;273
+msgid "The business could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BusinessesController.php:153
+msgid "Information of: "
+msgstr ""
+
+#: Controller/BusinessesController.php:305
+msgid "Business is not deleted"
+msgstr ""
+
+#: Controller/BusinessesController.php:384
+msgid "The Business could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CitiesController.php:32;66;115;148;175
+msgid "Invalid city"
+msgstr ""
+
+#: Controller/CitiesController.php:47;70
+msgid "The city has been saved"
+msgstr ""
+
+#: Controller/CitiesController.php:50;73;132;154
+msgid "The city could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CitiesController.php:178
+msgid "City is not deleted"
+msgstr ""
+
+#: Controller/ContactTypesController.php:32;57;87;111
+msgid "Invalid contact type"
+msgstr ""
+
+#: Controller/ContactTypesController.php:73;93
+msgid "The contact type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactTypesController.php:114
+msgid "Contact type is not deleted"
+msgstr ""
+
+#: Controller/ContactsController.php:33;48;86;154;193;226;273
+msgid "Invalid contact"
+msgstr ""
+
+#: Controller/ContactsController.php:64;93;171;199
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactsController.php:229
+msgid "Contact was not deleted"
+msgstr ""
+
+#: Controller/ContactsController.php:277
+msgid "Contact information of: "
+msgstr ""
+
+#: Controller/ContactsController.php:294
+msgid "The Contact could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactsController.php:322
+msgid "Invalid Contact"
+msgstr ""
+
+#: Controller/ContractTypesController.php:37;69;103;135;160
+msgid "Invalid contract type"
+msgstr ""
+
+#: Controller/ContractTypesController.php:52;73;118;139
+msgid "The contract type has been saved."
+msgstr ""
+
+#: Controller/ContractTypesController.php:55;76;121;142
+msgid "The contract type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContractTypesController.php:164
+msgid "The contract type has been deleted."
+msgstr ""
+
+#: Controller/ContractTypesController.php:166
+msgid "The contract type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContractsController.php:54;90;225;260;288
+msgid "Invalid contract"
+msgstr ""
+
+#: Controller/ContractsController.php:69;94;240;264
+msgid "The contract has been saved"
+msgstr ""
+
+#: Controller/ContractsController.php:72;97;243;267
+msgid "The contract could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContractsController.php:292
+msgid "Contract deleted"
+msgstr ""
+
+#: Controller/ContractsController.php:295
+msgid "Contract was not deleted"
+msgstr ""
+
+#: Controller/DayOffTypesController.php:30;55;87;112
+msgid "Invalid day off type"
+msgstr ""
+
+#: Controller/DayOffTypesController.php:70;91
+msgid "The day off type has been saved."
+msgstr ""
+
+#: Controller/DayOffTypesController.php:73;94
+msgid "The day off type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DayOffTypesController.php:116
+msgid "The day off type has been deleted."
+msgstr ""
+
+#: Controller/DayOffTypesController.php:118
+msgid "The day off type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DayOffsController.php:30;65;93;155;189;217
+msgid "Invalid day off"
+msgstr ""
+
+#: Controller/DayOffsController.php:45;69;169;193
+msgid "The day off has been saved."
+msgstr ""
+
+#: Controller/DayOffsController.php:48;72;172;196
+msgid "The day off could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DayOffsController.php:97;221
+msgid "The day off has been deleted."
+msgstr ""
+
+#: Controller/DayOffsController.php:99;223
+msgid "The day off could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:30;62;96;128;153
+msgid "Invalid department"
+msgstr ""
+
+#: Controller/DepartmentsController.php:45;66;111;132
+msgid "The department has been saved"
+msgstr ""
+
+#: Controller/DepartmentsController.php:48;69;114;135
+msgid "The department could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:157
+msgid "Department deleted"
+msgstr ""
+
+#: Controller/DepartmentsController.php:160
+msgid "Department was not deleted"
+msgstr ""
+
+#: Controller/GroupsController.php:43;67;97;121
+msgid "Invalid group"
+msgstr ""
+
+#: Controller/GroupsController.php:83;103
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GroupsController.php:124
+msgid "Group is not deleted"
+msgstr ""
+
+#: Controller/LoginsController.php:43;65
+msgid "Invalid login"
+msgstr ""
+
+#: Controller/LoginsController.php:46;68 Controller/TasksController.php:392
+msgid "Task was not deleted"
+msgstr ""
+
+#: Controller/OfferStatusesController.php:30;55;87;112
+msgid "Invalid offer status"
+msgstr ""
+
+#: Controller/OfferStatusesController.php:70;91
+msgid "The offer status has been saved."
+msgstr ""
+
+#: Controller/OfferStatusesController.php:73;94
+msgid "The offer status could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OfferStatusesController.php:116
+msgid "The offer status has been deleted."
+msgstr ""
+
+#: Controller/OfferStatusesController.php:118
+msgid "The offer status could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OfferTypesController.php:30;55;89;116
+msgid "Invalid offer type"
+msgstr ""
+
+#: Controller/OfferTypesController.php:70;93
+msgid "The offer type has been saved."
+msgstr ""
+
+#: Controller/OfferTypesController.php:73;96
+msgid "The offer type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OfferTypesController.php:120
+msgid "The offer type has been deleted."
+msgstr ""
+
+#: Controller/OfferTypesController.php:122
+msgid "The offer type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OffersController.php:31;75;105;156;185;227;264;284
+msgid "Invalid offer"
+msgstr ""
+
+#: Controller/OffersController.php:46;79;199;231
+msgid "The offer has been saved."
+msgstr ""
+
+#: Controller/OffersController.php:49;82;202;234
+msgid "The offer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OffersController.php:267
+msgid "Offer was not deleted"
+msgstr ""
+
+#: Controller/OpportunitiesController.php:36;84;130;175
+#: Controller/OpportunityCommunicationsController.php:20
+msgid "Invalid opportunity"
+msgstr ""
+
+#: Controller/OpportunitiesController.php:54;88;145;179
+msgid "The opportunity has been saved."
+msgstr ""
+
+#: Controller/OpportunitiesController.php:57;91;148;182
+msgid "The opportunity could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OpportunitiesController.php:209
+#: Controller/TasksController.php:123;155;324;357;389;446
+msgid "Invalid task"
+msgstr ""
+
+#: Controller/OpportunitiesController.php:212
+msgid "Opportunity was not deleted"
+msgstr ""
+
+#: Controller/OpportunityCampaingsController.php:39;71;105;137;162
+msgid "Invalid opportunity campaing"
+msgstr ""
+
+#: Controller/OpportunityCampaingsController.php:54;75;120;141
+msgid "The opportunity campaing has been saved."
+msgstr ""
+
+#: Controller/OpportunityCampaingsController.php:57;78;123;144
+msgid "The opportunity campaing could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityCampaingsController.php:166
+msgid "The opportunity campaing has been deleted."
+msgstr ""
+
+#: Controller/OpportunityCampaingsController.php:168
+msgid "The opportunity campaing could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityChannelsController.php:30;62;96;128;153
+msgid "Invalid opportunity channel"
+msgstr ""
+
+#: Controller/OpportunityChannelsController.php:45;66;111;132
+msgid "The opportunity channel has been saved."
+msgstr ""
+
+#: Controller/OpportunityChannelsController.php:48;69;114;135
+msgid "The opportunity channel could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityChannelsController.php:157
+msgid "The opportunity channel has been deleted."
+msgstr ""
+
+#: Controller/OpportunityChannelsController.php:159
+msgid "The opportunity channel could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityCommunicationsController.php:25;42
+msgid "The Opportunity could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityCommunicationsController.php:79;114;141
+msgid "Invalid opportunity communication"
+msgstr ""
+
+#: Controller/OpportunityCommunicationsController.php:94;118
+msgid "The opportunity communication has been saved."
+msgstr ""
+
+#: Controller/OpportunityCommunicationsController.php:97;121
+msgid "The opportunity communication could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityCommunicationsController.php:145
+msgid "The opportunity communication has been deleted."
+msgstr ""
+
+#: Controller/OpportunityCommunicationsController.php:147
+msgid "The opportunity communication could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityStatusesController.php:30;62;96;128;153
+msgid "Invalid opportunity status"
+msgstr ""
+
+#: Controller/OpportunityStatusesController.php:45;66;111;132
+msgid "The opportunity status has been saved."
+msgstr ""
+
+#: Controller/OpportunityStatusesController.php:48;69;114;135
+msgid "The opportunity status could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OpportunityStatusesController.php:157
+msgid "The opportunity status has been deleted."
+msgstr ""
+
+#: Controller/OpportunityStatusesController.php:159
+msgid "The opportunity status could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RepairsController.php:41;79;134;172;200
+msgid "Invalid repair"
+msgstr ""
+
+#: Controller/RepairsController.php:57;86;150;179
+msgid "The repair could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RepairsController.php:203
+msgid "Repair was not deleted"
+msgstr ""
+
+#: Controller/RepairsController.php:242
+msgid "Repairs : %s From %s"
+msgstr ""
+
+#: Controller/StatesController.php:31;54;68
+msgid "Invalid state"
+msgstr ""
+
+#: Controller/StatesController.php:74
+msgid "The state could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaskPrioritiesController.php:32;56;71
+msgid "Invalid task priority"
+msgstr ""
+
+#: Controller/TaskPrioritiesController.php:75
+msgid "The task priority has been saved"
+msgstr ""
+
+#: Controller/TaskPrioritiesController.php:78
+msgid "The task priority could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaskStatusesController.php:30;56;88;113
+msgid "Invalid task status"
+msgstr ""
+
+#: Controller/TaskStatusesController.php:71
+msgid "The task status has been saved"
+msgstr ""
+
+#: Controller/TaskStatusesController.php:74;94
+msgid "The task status could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaskStatusesController.php:119
+msgid "Task status was not deleted"
+msgstr ""
+
+#: Controller/TaskTypesController.php:30;54;84;109
+msgid "Invalid task type"
+msgstr ""
+
+#: Controller/TaskTypesController.php:70;90
+msgid "The task type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaskTypesController.php:113
+msgid "Task type deleted"
+msgstr ""
+
+#: Controller/TaskTypesController.php:116
+msgid "Task type was not deleted"
+msgstr ""
+
+#: Controller/TasksController.php:141;161;342;363
+msgid "The task could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TasksController.php:475
+msgid "User: %s sends some tasks"
+msgstr "Ο Χρήστης: %s στέλνει μερικές εργασίες"
+
+#: Controller/TasksController.php:503
+msgid "Report: %s From %s"
+msgstr "Αναφορά: %s από %s"
+
+#: Controller/TaxofficesController.php:32;72;102
+msgid "Invalid taxoffice"
+msgstr ""
+
+#: Controller/TaxofficesController.php:48;88;108
+msgid "The taxoffice could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TaxofficesController.php:126
+msgid "Invalid Taxoffice"
+msgstr ""
+
+#: Controller/TaxofficesController.php:129
+msgid "Taxoffice was not deleted"
+msgstr ""
+
+#: Controller/TaxofficesController.php:145
+msgid "Could not save Taxoffice"
+msgstr ""
+
+#: Controller/UsersController.php:87;101;129;162;195;224;311;348;396;419;439
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:135;179;202
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:199
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:227
+msgid "The user was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:279
+msgid "%s you have successfully logged out"
+msgstr ""
+
+#: Controller/UsersController.php:293
+msgid ""
+"The registration was successfull. Check your email to confirm your account"
+msgstr ""
+
+#: Controller/UsersController.php:296
+msgid "The user could not be registered. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:329;375
+msgid "There is no user with %s email"
+msgstr ""
+
+#: Controller/UsersController.php:332
+msgid "You have 24 hours to confirm your account"
+msgstr ""
+
+#: Controller/UsersController.php:352
+msgid "The user token is incorect.The password is not saved."
+msgstr ""
+
+#: Controller/UsersController.php:358
+msgid "The user password could not be changed. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:381
+msgid "You have 24 hours to reset your password"
+msgstr ""
+
+#: Controller/UsersController.php:399
+msgid "The page you are trying to show is invalid"
+msgstr ""
+
+#: Controller/UsersController.php:422
+msgid "The token expires in 24 hours."
+msgstr ""
+
+#: Controller/UsersController.php:424
+msgid "The token could not renew"
+msgstr ""
+
+#: Controller/UsersController.php:442
+msgid "The token email expires in 24 hours."
+msgstr ""
+
+#: Controller/UsersController.php:444
+msgid "The token email could not renew"
+msgstr ""
+
+#: Controller/UsersController.php:456
+msgid "Welcome %s to Portable CRM"
+msgstr ""
+
+#: Controller/UsersController.php:470
+msgid "Reset password %s"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:84
+msgid "Plugin to process"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:87
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:92
+msgid ""
+"Add new ACOs for new controllers and actions. Does not remove nodes from the "
+"ACO table."
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:97
+msgid ""
+"Perform a full sync on the ACO table.Will create new ACOs or missing "
+"controllers and actions.Will also remove orphaned entries that no longer "
+"have a matching controller/action"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:101
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:106
+msgid "The type of tree to verify"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:112
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:117
+msgid "The type of tree to recover"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:129
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:142
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:187
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:228
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:263
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:282
+msgid "<success>Tree is valid and strong</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:300
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:302
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:58
+msgid "Both ACOs and AROs have been dropped"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:67
+msgid "Permissions dropped"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:69
+msgid "Error while trying to drop permissions"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:299
+msgid "%d ACOs have been created/updated"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:373
+msgid "%d AROs have been created"
+msgstr ""
+
+#: Plugin/AclManager/Controller/AclController.php:477
+msgid "ActionAuthorizer could not be found"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:2
+msgid "Acl Manager %s"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:8
+#: Plugin/AclManager/View/Acl/permissions.ctp:22
+msgid "Manage permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:9
+#: Plugin/AclManager/View/Acl/permissions.ctp:23 View/Users/admin_index.ctp:8
+msgid "Update ACOs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:10
+#: Plugin/AclManager/View/Acl/permissions.ctp:24 View/Users/admin_index.ctp:9
+msgid "Update AROs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:11
+#: Plugin/AclManager/View/Acl/permissions.ctp:25
+msgid "Drop ACOs/AROs"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:11
+#: Plugin/AclManager/View/Acl/permissions.ctp:25
+msgid "Do you want to drop all ACOs and AROs?"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:12
+#: Plugin/AclManager/View/Acl/permissions.ctp:26
+msgid "Drop permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/index.ctp:12
+#: Plugin/AclManager/View/Acl/permissions.ctp:26
+msgid "Do you want to drop all the permissions?"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:3
+msgid "Manage for"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:21
+#: View/Helper/BootstrapHtmlHelper.php:382
+msgid "Return"
+msgstr "Επιστροφή"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:30
+msgid "%s permissions"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:35
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:68
+msgid "Inherit"
+msgstr ""
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:68
+msgid "Allow"
+msgstr "Θετικό"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:68
+msgid "Deny"
+msgstr "Άρνητικό"
+
+#: Plugin/AclManager/View/Acl/permissions.ctp:68
+msgid "No change"
+msgstr "Καμμία αλλαγή"
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:1
+msgid "PHP Environment"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:18
+msgid "CakePHP Constants"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/environment_panel.ctp:34
+msgid "App Constants"
+msgstr ""
+
+#: View/Appointments/add.ctp:1 View/Appointments/admin_index.ctp:1
+#: View/Appointments/admin_view.ctp:1 View/Appointments/edit.ctp:1
+#: View/Appointments/index.ctp:1 View/Appointments/view.ctp:1
+#: View/Elements/navbars/admin.ctp:15 View/Elements/navbars/manager.ctp:7
+#: View/Pages/dashboard.ctp:48 View/Pages/home.ctp:48
+msgid "Appointments"
+msgstr "Ραντεβού"
+
+#: View/Appointments/add.ctp:2 View/Appointments/edit.ctp:2
+#: View/BusinessTypes/add.ctp:3 View/Businesses/add.ctp:2
+#: View/ContactTypes/admin_add.ctp:3 View/Contacts/add.ctp:2
+#: View/ContractTypes/admin_add.ctp:3 View/Contracts/add.ctp:2
+#: View/Contracts/edit.ctp:2 View/DayOffTypes/admin_add.ctp:3
+#: View/DayOffs/add.ctp:2 View/Departments/add.ctp:3
+#: View/Groups/admin_add.ctp:3 View/Repairs/add.ctp:2 View/Repairs/edit.ctp:2
+#: View/TaskStatuses/admin_add.ctp:3 View/TaskStatuses/admin_edit.ctp:3
+#: View/TaskTypes/admin_add.ctp:3 View/Tasks/add.ctp:2
+#: View/Tasks/admin_add.ctp:2 View/Taxoffices/add.ctp:3
+#, fuzzy
+msgid "Create"
+msgstr "Δημιουργήθηκε"
+
+#: View/Appointments/add.ctp:7 View/Appointments/edit.ctp:8
+msgid "Add Appointment"
+msgstr ""
+
+#: View/Appointments/admin_index.ctp:3 View/Appointments/index.ctp:3
+#: View/BusinessTypes/admin_index.ctp:5 View/BusinessTypes/index.ctp:5
+#: View/Businesses/admin_index.ctp:4 View/Businesses/index.ctp:4
+#: View/Cities/admin_index.ctp:4 View/Cities/index.ctp:4
+#: View/ContactTypes/admin_index.ctp:4 View/Contacts/admin_index.ctp:4
+#: View/Contacts/index.ctp:4 View/ContractTypes/admin_index.ctp:4
+#: View/Contracts/admin_index.ctp:4 View/Contracts/index.ctp:4
+#: View/DayOffTypes/admin_index.ctp:4 View/DayOffs/admin_index.ctp:3
+#: View/DayOffs/index.ctp:3 View/Departments/admin_index.ctp:4
+#: View/Departments/index.ctp:4 View/Groups/admin_index.ctp:2
+#: View/Helper/BootstrapHtmlHelper.php:296 View/Helper/ButtonsHelper.php:19;26
+#: View/OfferStatuses/index.ctp:3 View/OfferTypes/index.ctp:2
+#: View/Offers/admin_index.ctp:4 View/Offers/index.ctp:3
+#: View/Opportunities/admin_index.ctp:3 View/Opportunities/index.ctp:3
+#: View/OpportunityCampaings/admin_index.ctp:3
+#: View/OpportunityCampaings/index.ctp:3
+#: View/OpportunityChannels/admin_index.ctp:3
+#: View/OpportunityStatuses/admin_index.ctp:4
+#: View/OpportunityStatuses/index.ctp:4 View/Repairs/admin_index.ctp:4
+#: View/Repairs/index.ctp:3 View/TaskStatuses/admin_index.ctp:4
+#: View/TaskTypes/admin_index.ctp:4 View/Tasks/admin_index.ctp:4
+#: View/Tasks/index.backup.ctp:4 View/Tasks/index.ctp:4
+#: View/Tasks/mob/admin_index.ctp:4 View/Tasks/mob/index.ctp:4
+#: View/Taxoffices/admin_index.ctp:4 View/Taxoffices/index.ctp:5
+#: View/Users/admin_index.ctp:3
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: View/Appointments/admin_index.ctp:17 View/Appointments/admin_view.ctp:18
+#: View/Appointments/index.ctp:17 View/Appointments/view.ctp:14
+#: View/DayOffs/admin_view.ctp:20 View/DayOffs/view.ctp:15
+#: View/Emails/html/contacts/view.ctp:27 View/Emails/html/offers/view.ctp:870
+#: View/Emails/html/repairs/index.ctp:74 View/Emails/html/tasks/view.ctp:692
+#: View/Logins/admin_view.ctp:9 View/Offers/admin_view.ctp:22
+#: View/Offers/view.ctp:26 View/Opportunities/admin_view.ctp:16;18
+#: View/Opportunities/view.ctp:16;18
+#: View/OpportunityCommunications/admin_related.ctp:9
+#: View/OpportunityCommunications/admin_view.ctp:19
+#: View/OpportunityCommunications/modal_edit_for_related.ctp:4
+#: View/OpportunityCommunications/related.ctp:9 View/Repairs/admin_view.ctp:23
+#: View/Repairs/related.ctp:5 View/Repairs/view.ctp:20
+#: View/Tasks/admin_view.ctp:20 View/Tasks/view.ctp:19
+#: View/Users/admin_add.ctp:6
+msgid "User"
+msgstr "Χρήστης"
+
+#: View/Appointments/admin_index.ctp:18 View/Appointments/index.ctp:18
+#: View/Elements/modals/opportunities/communication-add.ctp:10
+#: View/Emails/html/offers/view.ctp:860 View/Emails/html/repairs/index.ctp:75
+#: View/Emails/html/tasks/index.ctp:54 View/Emails/html/tasks/view.ctp:688
+#: View/Offers/add.ctp:31 View/Offers/admin_add.ctp:31
+#: View/Offers/admin_view.ctp:27 View/Offers/edit.ctp:30
+#: View/Offers/view.ctp:16 View/Opportunities/admin_view.ctp:12
+#: View/Opportunities/view.ctp:12
+#: View/OpportunityCommunications/admin_related.ctp:10
+#: View/OpportunityCommunications/admin_view.ctp:9
+#: View/OpportunityCommunications/modal_edit_for_related.ctp:3
+#: View/OpportunityCommunications/related.ctp:10
+#: View/Repairs/admin_index.ctp:11 View/Repairs/admin_view.ctp:18
+#: View/Repairs/index.ctp:9 View/Repairs/related.ctp:8
+#: View/Repairs/view.ctp:15 View/Tasks/admin_index.ctp:36
+#: View/Tasks/admin_related.ctp:10 View/Tasks/index.backup.ctp:36
+#: View/Tasks/index.ctp:37 View/Tasks/related.ctp:6
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: View/Appointments/admin_index.ctp:19 View/Appointments/admin_view.ctp:23
+#: View/Appointments/index.ctp:19 View/Appointments/view.ctp:19
+#: View/DayOffs/admin_index.ctp:13 View/DayOffs/admin_view.ctp:25
+#: View/DayOffs/index.ctp:13 View/DayOffs/view.ctp:20
+msgid "Start"
+msgstr "Αρχή"
+
+#: View/Appointments/admin_index.ctp:20 View/Appointments/admin_view.ctp:27
+#: View/Appointments/view.ctp:24 View/DayOffs/admin_index.ctp:14
+#: View/DayOffs/admin_view.ctp:30 View/DayOffs/index.ctp:14
+#: View/DayOffs/view.ctp:25
+msgid "End"
+msgstr "Τέλος"
+
+#: View/Appointments/admin_index.ctp:21 View/Appointments/admin_view.ctp:31
+#: View/Contacts/admin_related.ctp:11 View/Emails/html/repairs/index.ctp:73
+#: View/Emails/html/tasks/view.ctp:783 View/Offers/admin_view.ctp:57
+#: View/Opportunities/admin_view.ctp:40 View/Opportunities/view.ctp:40
+#: View/OpportunityCommunications/admin_related.ctp:8
+#: View/OpportunityCommunications/admin_view.ctp:24
+#: View/OpportunityCommunications/modal_edit_for_related.ctp:5
+#: View/OpportunityCommunications/related.ctp:8 View/Repairs/admin_view.ctp:55
+#: View/Repairs/related.ctp:4 View/Repairs/view.ctp:40
+#: View/Tasks/admin_add.ctp:66 View/Tasks/admin_index.backup.ctp:35
+#: View/Tasks/admin_index.ctp:35 View/Tasks/admin_related.ctp:9
+#: View/Tasks/admin_view.ctp:113 View/Tasks/index.backup.ctp:35
+#: View/Tasks/index.ctp:35 View/Tasks/related.ctp:5 View/Tasks/view.ctp:112
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+#: View/Appointments/admin_index.ctp:22 View/Appointments/index.ctp:20
+#: View/BusinessTypes/admin_index.ctp:13 View/BusinessTypes/index.ctp:11
+#: View/Businesses/admin_index.ctp:20 View/Businesses/admin_related.ctp:15
+#: View/Businesses/admin_view.ctp:111 View/Businesses/index.ctp:18
+#: View/Businesses/related.ctp:14 View/Businesses/view.ctp:110
+#: View/Cities/admin_index.ctp:13 View/Cities/admin_related.ctp:7
+#: View/Cities/index.ctp:11 View/Cities/related.ctp:5
+#: View/ContactTypes/admin_index.ctp:12 View/ContactTypes/index.ctp:7
+#: View/Contacts/admin_index.ctp:17 View/Contacts/admin_related.ctp:13
+#: View/Contacts/admin_view.ctp:89 View/Contacts/index.ctp:15
+#: View/Contacts/related.ctp:10 View/Contacts/view.ctp:83
+#: View/ContractTypes/admin_index.ctp:12 View/ContractTypes/index.ctp:7
+#: View/Contracts/admin_index.ctp:30 View/Contracts/admin_related.ctp:9
+#: View/Contracts/index.ctp:30 View/Contracts/related.ctp:9
+#: View/DayOffTypes/admin_index.ctp:12 View/DayOffTypes/index.ctp:7
+#: View/DayOffs/admin_index.ctp:15 View/DayOffs/index.ctp:15
+#: View/Departments/admin_index.ctp:12 View/Departments/index.ctp:10
+#: View/Groups/admin_index.ctp:11 View/Groups/index.ctp:8
+#: View/Logins/admin_index.ctp:9 View/Logins/admin_related.ctp:8
+#: View/OfferStatuses/admin_index.ctp:8 View/OfferStatuses/edit.ctp:13
+#: View/OfferStatuses/index.ctp:13 View/OfferTypes/admin_index.ctp:8
+#: View/OfferTypes/index.ctp:8 View/Offers/admin_index.ctp:21
+#: View/Offers/index.ctp:20 View/Opportunities/admin_index.ctp:19
+#: View/Opportunities/index.ctp:16
+#: View/OpportunityCampaings/admin_index.ctp:12
+#: View/OpportunityCampaings/index.ctp:10
+#: View/OpportunityChannels/admin_index.ctp:12
+#: View/OpportunityChannels/index.ctp:5
+#: View/OpportunityCommunications/admin_index.ctp:11
+#: View/OpportunityCommunications/admin_related.ctp:11
+#: View/OpportunityStatuses/admin_index.ctp:12
+#: View/OpportunityStatuses/index.ctp:10 View/Repairs/admin_index.ctp:18
+#: View/Repairs/index.ctp:16 View/Repairs/related.ctp:11
+#: View/States/admin_index.ctp:8 View/States/index.ctp:6
+#: View/TaskPriorities/admin_index.ctp:11 View/TaskPriorities/index.ctp:7
+#: View/TaskStatuses/admin_index.ctp:14 View/TaskStatuses/index.ctp:7
+#: View/TaskTypes/admin_index.ctp:14 View/TaskTypes/index.ctp:7
+#: View/Tasks/admin_index.backup.ctp:43 View/Tasks/admin_index.ctp:41
+#: View/Tasks/admin_related.ctp:16 View/Tasks/index.backup.ctp:41
+#: View/Tasks/index.ctp:42 View/Tasks/related.ctp:12
+#: View/Taxoffices/admin_index.ctp:12 View/Taxoffices/index.ctp:11
+#: View/Users/admin_index.ctp:31 View/Users/admin_related.ctp:16
+#: View/Users/index.ctp:11 View/Users/related.ctp:10
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: View/Appointments/admin_view.ctp:2 View/Appointments/view.ctp:2
+#: View/BusinessTypes/admin_view.ctp:3 View/BusinessTypes/view.ctp:3
+#: View/Businesses/admin_view.ctp:2 View/Businesses/view.ctp:2
+#: View/Cities/admin_view.ctp:2 View/Cities/view.ctp:2
+#: View/ContactTypes/admin_view.ctp:3 View/ContactTypes/view.ctp:3
+#: View/Contacts/admin_view.ctp:2 View/Contacts/view.ctp:2
+#: View/ContractTypes/admin_view.ctp:3 View/ContractTypes/view.ctp:3
+#: View/Contracts/admin_view.ctp:2 View/Contracts/view.ctp:2
+#: View/DayOffTypes/admin_view.ctp:3 View/DayOffTypes/view.ctp:3
+#: View/DayOffs/admin_view.ctp:2 View/DayOffs/view.ctp:2
+#: View/Departments/admin_view.ctp:3 View/Departments/view.ctp:3
+#: View/Groups/view.ctp:3 View/OfferStatuses/admin_index.ctp:16
+#: View/OfferStatuses/index.ctp:21 View/OfferTypes/admin_index.ctp:17
+#: View/Opportunities/admin_view.ctp:2 View/Opportunities/view.ctp:2
+#: View/OpportunityCommunications/admin_index.ctp:26
+#: View/Repairs/admin_view.ctp:2 View/Repairs/related.ctp:24
+#: View/Repairs/view.ctp:2 View/States/view.ctp:2
+#: View/TaskPriorities/admin_view.ctp:3 View/TaskPriorities/view.ctp:3
+#: View/TaskStatuses/admin_view.ctp:3 View/TaskStatuses/view.ctp:3
+#: View/TaskTypes/admin_view.ctp:3 View/TaskTypes/view.ctp:3
+#: View/Tasks/admin_index.backup.ctp:84 View/Tasks/admin_index.ctp:113
+#: View/Tasks/admin_view.ctp:2 View/Tasks/view.ctp:2
+#: View/Taxoffices/view.ctp:3 View/Users/admin_view.ctp:2
+#: View/Users/view.ctp:2
+msgid "View"
+msgstr ""
+
+#: View/Appointments/admin_view.ctp:12 View/Appointments/view.ctp:12
+msgid "Appointment"
+msgstr "Ραντεβού"
+
+#: View/Appointments/admin_view.ctp:14 View/Cities/admin_related.ctp:4
+#: View/Cities/admin_view.ctp:15 View/ContactTypes/admin_view.ctp:18
+#: View/Contacts/admin_related.ctp:4 View/Contacts/admin_view.ctp:15
+#: View/ContractTypes/admin_view.ctp:8 View/DayOffTypes/admin_view.ctp:9
+#: View/DayOffs/admin_view.ctp:15 View/Departments/admin_view.ctp:16
+#: View/Groups/admin_view.ctp:8 View/Logins/admin_view.ctp:4
+#: View/OfferStatuses/admin_view.ctp:4 View/OfferStatuses/view.ctp:4
+#: View/OfferTypes/admin_view.ctp:4 View/OfferTypes/view.ctp:4
+#: View/Offers/admin_view.ctp:17 View/OpportunityCampaings/admin_view.ctp:4
+#: View/OpportunityCampaings/view.ctp:4
+#: View/OpportunityChannels/admin_view.ctp:4
+#: View/OpportunityChannels/view.ctp:4
+#: View/OpportunityCommunications/admin_view.ctp:4
+#: View/OpportunityStatuses/admin_view.ctp:4
+#: View/OpportunityStatuses/view.ctp:4 View/States/admin_index.ctp:5
+#: View/States/admin_view.ctp:13 View/TaskPriorities/admin_index.ctp:6
+#: View/TaskPriorities/admin_view.ctp:17 View/TaskStatuses/admin_view.ctp:17
+#: View/TaskTypes/admin_view.ctp:17 View/Users/admin_view.ctp:19
+msgid "Id"
+msgstr ""
+
+#: View/Appointments/admin_view.ctp:35 View/Contacts/admin_index.ctp:16
+#: View/Contacts/admin_related.ctp:12 View/Emails/html/tasks/view.ctp:789
+#: View/Offers/admin_view.ctp:62 View/Opportunities/admin_view.ctp:44
+#: View/Opportunities/view.ctp:44
+#: View/OpportunityCommunications/admin_view.ctp:29
+#: View/OpportunityCommunications/modal_edit_for_related.ctp:6
+#: View/Tasks/admin_add.ctp:67 View/Tasks/admin_view.ctp:117
+#: View/Tasks/view.ctp:116
+msgid "Updated"
+msgstr "Ενημερώθηκε"
+
+#: View/BusinessTypes/add.ctp:1 View/BusinessTypes/admin_index.ctp:1
+#: View/BusinessTypes/admin_view.ctp:1;21 View/BusinessTypes/edit.ctp:1
+#: View/BusinessTypes/index.ctp:1 View/BusinessTypes/view.ctp:1;15
+#: View/Businesses/add.ctp:1 View/Businesses/admin_index.ctp:1
+#: View/Businesses/admin_view.ctp:1 View/Businesses/index.ctp:1
+#: View/Businesses/view.ctp:1 View/Cities/admin_view.ctp:37
+#: View/Cities/view.ctp:28 View/Departments/add.ctp:1
+#: View/Departments/admin_index.ctp:1 View/Departments/admin_view.ctp:1
+#: View/Departments/edit.ctp:1 View/Departments/index.ctp:1
+#: View/Departments/view.ctp:1 View/Elements/navbars/admin.ctp:41
+#: View/Elements/navbars/manager.ctp:28 View/Elements/navbars/seller.ctp:3
+#: View/Elements/navbars/tech.ctp:7 View/Elements/navbars/user.ctp:12
+#: View/States/admin_view.ctp:29 View/States/view.ctp:13
+#: View/Taxoffices/add.ctp:1 View/Taxoffices/admin_edit.ctp:1
+#: View/Taxoffices/admin_index.ctp:1 View/Taxoffices/admin_view.ctp:1;30
+#: View/Taxoffices/index.ctp:1 View/Taxoffices/view.ctp:1;23
+msgid "Businesses"
+msgstr "Επιχειρήσεις"
+
+#: View/BusinessTypes/add.ctp:2 View/BusinessTypes/admin_index.ctp:2
+#: View/BusinessTypes/admin_view.ctp:2 View/BusinessTypes/edit.ctp:2
+#: View/BusinessTypes/index.ctp:2 View/BusinessTypes/view.ctp:2
+#: View/Elements/navbars/admin.ctp:34 View/Elements/navbars/manager.ctp:21
+#: View/Elements/navbars/user.ctp:5
+msgid "Business Types"
+msgstr "Επάγγελμα"
+
+#: View/BusinessTypes/add.ctp:8
+#, fuzzy
+msgid "Create Business Type"
+msgstr "Επάγγελμα"
+
+#: View/BusinessTypes/admin_view.ctp:15 View/Cities/admin_related.ctp:6
+#: View/Cities/admin_view.ctp:30 View/ContactTypes/admin_view.ctp:26
+#: View/ContractTypes/admin_view.ctp:16 View/DayOffTypes/admin_view.ctp:17
+#: View/DayOffs/admin_view.ctp:35 View/Departments/admin_view.ctp:24
+#: View/Logins/admin_view.ctp:24 View/OfferStatuses/admin_view.ctp:14
+#: View/OfferStatuses/view.ctp:14 View/OfferTypes/admin_view.ctp:19
+#: View/OfferTypes/view.ctp:19 View/OpportunityCampaings/admin_view.ctp:14
+#: View/OpportunityCampaings/view.ctp:14
+#: View/OpportunityChannels/admin_view.ctp:14
+#: View/OpportunityChannels/view.ctp:14
+#: View/OpportunityStatuses/admin_view.ctp:14 View/States/admin_index.ctp:7
+#: View/States/admin_view.ctp:21 View/TaskPriorities/admin_index.ctp:10
+#: View/TaskPriorities/admin_view.ctp:25 View/TaskStatuses/admin_index.ctp:13
+#: View/TaskStatuses/admin_view.ctp:30 View/TaskTypes/admin_index.ctp:13
+#: View/TaskTypes/admin_view.ctp:30 View/Taxoffices/admin_view.ctp:22
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+#: View/BusinessTypes/edit.ctp:3 View/Businesses/edit.ctp:2
+#: View/Cities/edit.ctp:2 View/ContactTypes/admin_edit.ctp:3
+#: View/Contacts/edit.ctp:2 View/ContractTypes/admin_edit.ctp:3
+#: View/DayOffTypes/admin_edit.ctp:3 View/DayOffs/edit.ctp:2
+#: View/Departments/edit.ctp:3 View/Groups/admin_edit.ctp:3
+#: View/Helper/BootstrapHtmlHelper.php:318
+#: View/OfferStatuses/admin_index.ctp:17 View/OfferTypes/admin_index.ctp:18
+#: View/OpportunityCommunications/admin_index.ctp:27
+#: View/Repairs/related.ctp:25 View/States/admin_edit.ctp:2
+#: View/TaskPriorities/admin_edit.ctp:3 View/TaskTypes/admin_edit.ctp:3
+#: View/Tasks/admin_index.backup.ctp:85 View/Tasks/admin_index.ctp:114
+#: View/Tasks/edit.ctp:2 View/Taxoffices/admin_edit.ctp:3
+#: View/Users/admin_edit.ctp:2
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: View/BusinessTypes/edit.ctp:10
+msgid "Edit Business Type"
+msgstr ""
+
+#: View/Businesses/add.ctp:7 View/Businesses/edit.ctp:9
+#: View/Contacts/add.ctp:7 View/Opportunities/add.ctp:6
+#: View/Opportunities/edit.ctp:7 View/Users/admin_edit.ctp:14
+#: View/Users/personal.ctp:9
+msgid "General"
+msgstr ""
+
+#: View/Businesses/add.ctp:8 View/Businesses/edit.ctp:10
+#: View/Contacts/add.ctp:8;80 View/Contacts/edit.ctp:10;84
+#: View/Elements/modals/businesses/business-add.ctp:11
+msgid "Communication"
+msgstr "Επικοινωνία"
+
+#: View/Businesses/add.ctp:9 View/Businesses/admin_view.ctp:31
+#: View/Businesses/edit.ctp:11 View/Businesses/view.ctp:31
+#: View/Contacts/add.ctp:81 View/Contacts/edit.ctp:85
+#: View/Elements/modals/businesses/business-add.ctp:12
+msgid "Logistics"
+msgstr "Λογιστικά"
+
+#: View/Businesses/add.ctp:10 View/Businesses/edit.ctp:12
+#: View/Contacts/add.ctp:9 View/Contacts/edit.ctp:12 View/Contracts/add.ctp:8
+#: View/Contracts/edit.ctp:9
+#: View/Elements/modals/businesses/business-add.ctp:14
+#: View/Users/admin_add.ctp:7 View/Users/admin_edit.ctp:16
+#: View/Users/personal.ctp:10
+msgid "Misc."
+msgstr ""
+
+#: View/Businesses/add.ctp:19 View/Businesses/edit.ctp:21
+#: View/Contacts/edit.ctp:9 View/Emails/html/contacts/view.ctp:55
+#: View/Emails/html/offers/view.ctp:943 View/Emails/html/repairs/index.ctp:77
+#: View/Emails/html/tasks/index.ctp:56 View/Emails/html/tasks/view.ctp:730
+#: View/Offers/add.ctp:20 View/Offers/admin_add.ctp:20
+#: View/Offers/admin_view.ctp:32 View/Offers/edit.ctp:20
+#: View/Offers/view.ctp:99 View/Opportunities/admin_view.ctp:80
+#: View/Opportunities/view.ctp:80 View/Repairs/add.ctp:26
+#: View/Repairs/admin_view.ctp:33 View/Repairs/edit.ctp:26
+#: View/Repairs/related.ctp:7 View/Repairs/view.ctp:73;75
+#: View/Tasks/add.ctp:26 View/Tasks/admin_add.ctp:28
+#: View/Tasks/admin_index.backup.ctp:38 View/Tasks/admin_index.ctp:38
+#: View/Tasks/admin_related.ctp:12 View/Tasks/admin_view.ctp:58;60
+#: View/Tasks/edit.ctp:27 View/Tasks/index.backup.ctp:38
+#: View/Tasks/index.ctp:39 View/Tasks/related.ctp:8 View/Tasks/view.ctp:57;59
+msgid "Contact"
+msgstr "Επαφή"
+
+#: View/Businesses/add.ctp:34 View/Businesses/admin_view.ctp:33
+#: View/Businesses/edit.ctp:36 View/Businesses/popover_view.ctp:14
+#: View/Businesses/view.ctp:33 View/Contacts/admin_view.ctp:87
+#: View/Contacts/view.ctp:81
+#: View/Elements/modals/businesses/business-add.ctp:34
+#: View/Emails/html/businesses/view.ctp:36
+#: View/Emails/html/contacts/view.ctp:109
+msgid "Business Type"
+msgstr ""
+
+#: View/Businesses/add.ctp:43 View/Businesses/admin_view.ctp:41
+#: View/Businesses/edit.ctp:45 View/Businesses/popover_view.ctp:22
+#: View/Businesses/view.ctp:41 View/Contacts/admin_view.ctp:88
+#: View/Contacts/view.ctp:82 View/Emails/html/businesses/view.ctp:70
+#: View/Emails/html/contacts/view.ctp:123 View/Taxoffices/view.ctp:15
+msgid "Taxoffice"
+msgstr "ΔΟΥ"
+
+#: View/Businesses/add.ctp:60;123 View/Businesses/admin_index.ctp:17
+#: View/Businesses/admin_related.ctp:14
+#: View/Businesses/admin_view.ctp:54;106 View/Businesses/edit.ctp:62;128
+#: View/Businesses/index.ctp:16 View/Businesses/popover_view.ctp:30
+#: View/Businesses/related.ctp:13 View/Businesses/view.ctp:54;106
+#: View/Cities/admin_view.ctp:25 View/Cities/view.ctp:20
+#: View/Contacts/add.ctp:47 View/Contacts/admin_index.ctp:15
+#: View/Contacts/admin_related.ctp:9 View/Contacts/admin_view.ctp:55;85
+#: View/Contacts/edit.ctp:44 View/Contacts/index.ctp:14
+#: View/Contacts/popover_view.ctp:37 View/Contacts/related.ctp:8
+#: View/Contacts/view.ctp:50;79
+#: View/Elements/modals/businesses/business-add.ctp:66
+#: View/Elements/modals/contacts/contact-add.ctp:39
+#: View/Emails/html/businesses/view.ctp:52
+#: View/Emails/html/contacts/view.ctp:96
+msgid "City"
+msgstr "Πόλη"
+
+#: View/Businesses/add.ctp:72;73 View/Businesses/admin_view.ctp:107
+#: View/Businesses/edit.ctp:74;75 View/Businesses/modal_edit.ctp:9;10
+#: View/Contacts/add.ctp:89;90 View/Contacts/admin_view.ctp:35
+#: View/Contacts/edit.ctp:93;94 View/Contacts/modal_edit.ctp:9;12
+#: View/Contacts/popover_view.ctp:17 View/Contacts/view.ctp:30
+#: View/Elements/modals/businesses/business-add.ctp:20;21
+#: View/Emails/html/contacts/view.ctp:60 View/Users/admin_view.ctp:56
+#: View/Users/me.ctp:38 View/Users/view.ctp:33
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: View/Businesses/add.ctp:93 View/Elements/modals/contacts/contact-add.ctp:4
+#, fuzzy
+msgid "Create New Contact"
+msgstr "Νέα Επαφή"
+
+#: View/Businesses/admin_index.ctp:5 View/Businesses/index.ctp:5
+#: View/Contracts/admin_index.ctp:6 View/Contracts/index.ctp:6
+#: View/Tasks/admin_index.backup.ctp:6 View/Tasks/admin_index.ctp:6
+#: View/Tasks/index.backup.ctp:6 View/Tasks/index.ctp:6
+msgid "Filters"
+msgstr "Φίλτρα"
+
+#: View/Businesses/admin_index.ctp:6 View/Businesses/index.ctp:6
+#: View/Contracts/admin_index.ctp:14 View/Contracts/index.ctp:14
+#: View/Elements/modals/tasks/export.ctp:24
+#: View/Tasks/admin_index.backup.ctp:16 View/Tasks/admin_index.ctp:16
+#: View/Tasks/index.backup.ctp:16 View/Tasks/index.ctp:16
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: View/Businesses/admin_index.ctp:14 View/Businesses/admin_related.ctp:11
+#: View/Businesses/admin_view.ctp:18 View/Businesses/index.ctp:13
+#: View/Businesses/popover_view.ctp:2 View/Businesses/related.ctp:10
+#: View/Businesses/view.ctp:18;107 View/Contacts/admin_index.ctp:12
+#: View/Contacts/admin_related.ctp:6 View/Contacts/index.ctp:11
+#: View/Contacts/related.ctp:5 View/Contacts/view.ctp:77
+#: View/Contracts/admin_view.ctp:50 View/Contracts/view.ctp:49
+#: View/Emails/html/offers/view.ctp:932;949
+#: View/Emails/html/tasks/view.ctp:713;734 View/Offers/view.ctp:88;105
+#: View/Opportunities/admin_view.ctp:63;84 View/Opportunities/view.ctp:63;84
+#: View/Repairs/view.ctp:58;79 View/Tasks/admin_view.ctp:43;64
+#: View/Tasks/view.ctp:42;63 View/Users/related.ctp:9
+msgid "Phones"
+msgstr "Τηλέφωνα"
+
+#: View/Businesses/admin_index.ctp:15 View/Businesses/admin_related.ctp:12
+#: View/Businesses/index.ctp:14 View/Businesses/related.ctp:11
+msgid "Map"
+msgstr "Χάρτης"
+
+#: View/Businesses/admin_index.ctp:16 View/Businesses/admin_related.ctp:13
+#: View/Businesses/admin_view.ctp:50;105 View/Businesses/index.ctp:15
+#: View/Businesses/popover_view.ctp:26 View/Businesses/related.ctp:12
+#: View/Businesses/view.ctp:50;105 View/Cities/admin_index.ctp:11
+#: View/Cities/admin_view.ctp:20 View/Cities/index.ctp:10
+#: View/Cities/view.ctp:15 View/Contacts/admin_index.ctp:14
+#: View/Contacts/admin_related.ctp:8 View/Contacts/admin_view.ctp:50;84
+#: View/Contacts/index.ctp:13 View/Contacts/popover_view.ctp:32
+#: View/Contacts/related.ctp:7 View/Contacts/view.ctp:45;78
+#: View/Emails/html/businesses/view.ctp:48
+#: View/Emails/html/contacts/view.ctp:88
+msgid "State"
+msgstr "Νομός"
+
+#: View/Businesses/admin_index.ctp:18 View/Businesses/admin_view.ctp:37
+#: View/Businesses/modal_edit.ctp:12 View/Businesses/popover_view.ctp:18
+#: View/Businesses/view.ctp:37 View/Contacts/admin_view.ctp:86
+#: View/Contacts/view.ctp:80 View/Emails/html/businesses/view.ctp:65
+msgid "Afm"
+msgstr "ΑΦΜ"
+
+#: View/Businesses/admin_index.ctp:29 View/Businesses/admin_related.ctp:24
+#: View/Businesses/index.ctp:26 View/Businesses/related.ctp:22
+#: View/Contacts/admin_index.ctp:26 View/Contacts/index.ctp:23
+#: View/Emails/html/repairs/index.ctp:94
+#: View/Emails/html/tasks/index.ctp:74;83 View/Repairs/admin_index.ctp:33
+#: View/Repairs/index.ctp:30 View/Tasks/admin_index.ctp:78;99
+#: View/Tasks/index.backup.ctp:78;99 View/Tasks/index.ctp:81;102
+msgid "Tel:"
+msgstr "Τηλ:"
+
+#: View/Businesses/admin_related.ctp:8 View/Contacts/admin_index.ctp:9
+#: View/Contracts/admin_related.ctp:4 View/Contracts/related.ctp:4
+#: View/Logins/admin_related.ctp:4 View/TaskTypes/admin_index.ctp:9
+#: View/Taxoffices/admin_view.ctp:14 View/Users/admin_related.ctp:4
+msgid "id"
+msgstr ""
+
+#: View/Businesses/admin_related.ctp:9 View/Businesses/related.ctp:8
+#: View/Contacts/admin_view.ctp:81 View/Contacts/view.ctp:76
+#: View/Contracts/admin_view.ctp:46 View/Contracts/view.ctp:45
+#: View/Elements/modals/businesses/business-add.ctp:8
+#: View/Emails/html/businesses/view.ctp:32
+#: View/Emails/html/contacts/view.ctp:83 View/Emails/html/offers/view.ctp:926
+#: View/Emails/html/tasks/view.ctp:709 View/Offers/view.ctp:82
+#: View/Opportunities/admin_view.ctp:59 View/Opportunities/view.ctp:59
+#: View/Repairs/view.ctp:54 View/Tasks/admin_view.ctp:39
+#: View/Tasks/view.ctp:38
+msgid "Firm"
+msgstr "Φίρμα"
+
+#: View/Businesses/admin_related.ctp:10 View/Businesses/edit.ctp:1
+#: View/Businesses/related.ctp:9 View/Contacts/add.ctp:18;77
+#: View/Contacts/admin_view.ctp:70;80 View/Contacts/edit.ctp:25;81
+#: View/Contacts/view.ctp:65;75 View/Contracts/admin_view.ctp:41;42
+#: View/Contracts/view.ctp:40;41
+#: View/Elements/modals/businesses/business-add.ctp:7
+#: View/Emails/html/businesses/view.ctp:26;28
+#: View/Emails/html/contacts/view.ctp:78 View/Emails/html/offers/view.ctp:920
+#: View/Emails/html/repairs/index.ctp:76 View/Emails/html/tasks/index.ctp:55
+#: View/Emails/html/tasks/view.ctp:705 View/Offers/add.ctp:8
+#: View/Offers/admin_add.ctp:8 View/Offers/admin_view.ctp:37
+#: View/Offers/edit.ctp:9 View/Offers/view.ctp:76
+#: View/Opportunities/admin_view.ctp:55 View/Opportunities/view.ctp:55
+#: View/Repairs/add.ctp:14 View/Repairs/admin_view.ctp:28
+#: View/Repairs/edit.ctp:15 View/Repairs/related.ctp:6
+#: View/Repairs/view.ctp:48;50 View/Tasks/add.ctp:14
+#: View/Tasks/admin_add.ctp:16 View/Tasks/admin_index.backup.ctp:37
+#: View/Tasks/admin_index.ctp:37 View/Tasks/admin_related.ctp:11
+#: View/Tasks/admin_view.ctp:33;35 View/Tasks/edit.ctp:16
+#: View/Tasks/index.backup.ctp:37 View/Tasks/index.ctp:38
+#: View/Tasks/related.ctp:7 View/Tasks/view.ctp:32;34
+msgid "Business"
+msgstr "Επιχείρηση"
+
+#: View/Businesses/admin_view.ctp:16 View/Businesses/view.ctp:16
+msgid "Communication info"
+msgstr ""
+
+#: View/Businesses/admin_view.ctp:22;109 View/Businesses/popover_view.ctp:6
+#: View/Businesses/view.ctp:22;108 View/Contacts/admin_related.ctp:7
+#: View/Contacts/admin_view.ctp:45 View/Contacts/popover_view.ctp:27
+#: View/Contacts/related.ctp:6 View/Contacts/view.ctp:40
+#: View/Contracts/admin_view.ctp:54 View/Contracts/view.ctp:53
+#: View/Elements/modals/contacts/contact-add.ctp:30
+#: View/Elements/modals/tasks/email.ctp:28
+#: View/Emails/html/contacts/view.ctp:70
+#: View/Emails/html/tasks/view.ctp:717;738
+#: View/Opportunities/admin_view.ctp:67;88 View/Opportunities/view.ctp:67;88
+#: View/Repairs/view.ctp:62;83 View/Tasks/admin_view.ctp:47;68
+#: View/Tasks/view.ctp:46;67 View/Users/admin_view.ctp:51 View/Users/me.ctp:33
+#: View/Users/view.ctp:28
+msgid "Email"
+msgstr ""
+
+#: View/Businesses/admin_view.ctp:26 View/Businesses/popover_view.ctp:10
+#: View/Businesses/view.ctp:26
+msgid "Website"
+msgstr ""
+
+#: View/Businesses/admin_view.ctp:48;58 View/Businesses/modal_edit.ctp:19
+#: View/Businesses/popover_view.ctp:34 View/Businesses/view.ctp:48;58
+#: View/Contacts/add.ctp:82 View/Contacts/edit.ctp:86
+#: View/Elements/modals/businesses/business-add.ctp:13
+#: View/Emails/html/businesses/view.ctp:56
+#: View/Emails/html/contacts/view.ctp:104
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: View/Businesses/admin_view.ctp:62
+msgid "Tk"
+msgstr ""
+
+#: View/Businesses/admin_view.ctp:90 View/Businesses/view.ctp:90
+#: View/Contacts/admin_view.ctp:69 View/Contacts/view.ctp:64
+#: View/Elements/navbars/admin.ctp:10 View/Elements/navbars/manager.ctp:2
+#: View/Elements/navbars/tech.ctp:2 View/Pages/home.ctp:13
+#: View/TaskPriorities/admin_edit.ctp:1 View/TaskPriorities/admin_index.ctp:1
+#: View/TaskPriorities/admin_view.ctp:1;31 View/TaskPriorities/index.ctp:1
+#: View/TaskPriorities/view.ctp:1;18 View/TaskStatuses/admin_add.ctp:1
+#: View/TaskStatuses/admin_edit.ctp:1 View/TaskStatuses/admin_index.ctp:1
+#: View/TaskStatuses/admin_view.ctp:1;36 View/TaskStatuses/index.ctp:1
+#: View/TaskStatuses/view.ctp:1;14 View/TaskTypes/admin_add.ctp:1
+#: View/TaskTypes/admin_edit.ctp:1 View/TaskTypes/admin_index.ctp:1
+#: View/TaskTypes/admin_view.ctp:1;36 View/TaskTypes/index.ctp:1
+#: View/TaskTypes/view.ctp:1;19 View/Tasks/add.ctp:1
+#: View/Tasks/admin_add.ctp:1 View/Tasks/admin_index.backup.ctp:1
+#: View/Tasks/admin_index.ctp:1 View/Tasks/admin_view.ctp:1
+#: View/Tasks/edit.ctp:1 View/Tasks/index.backup.ctp:1 View/Tasks/index.ctp:1
+#: View/Tasks/view.ctp:1 View/Tasks/mob/admin_index.ctp:1
+#: View/Tasks/mob/index.ctp:1
+msgid "Tasks"
+msgstr "Εργασίες"
+
+#: View/Businesses/admin_view.ctp:91 View/Businesses/view.ctp:91
+#: View/Cities/admin_view.ctp:38 View/Cities/view.ctp:29
+#: View/ContactTypes/admin_add.ctp:1 View/ContactTypes/admin_edit.ctp:1
+#: View/ContactTypes/admin_index.ctp:1 View/ContactTypes/admin_view.ctp:1;34
+#: View/ContactTypes/index.ctp:1 View/ContactTypes/view.ctp:1;14
+#: View/Contacts/add.ctp:1 View/Contacts/admin_index.ctp:1
+#: View/Contacts/admin_view.ctp:1 View/Contacts/edit.ctp:1
+#: View/Contacts/index.ctp:1 View/Contacts/view.ctp:1
+#: View/Departments/admin_view.ctp:32 View/Departments/view.ctp:16
+#: View/Elements/navbars/admin.ctp:52 View/Elements/navbars/manager.ctp:29
+#: View/Elements/navbars/seller.ctp:4 View/Elements/navbars/tech.ctp:8
+#: View/Elements/navbars/user.ctp:20 View/States/admin_view.ctp:30
+#: View/States/view.ctp:14
+msgid "Contacts"
+msgstr "Επαφές"
+
+#: View/Businesses/admin_view.ctp:92 View/Businesses/view.ctp:92
+#: View/Contacts/admin_view.ctp:60 View/Contacts/view.ctp:55
+#: View/Contracts/admin_view.ctp:32 View/Contracts/view.ctp:31
+#: View/Emails/html/businesses/view.ctp:75 View/Groups/admin_view.ctp:16
+#: View/Groups/view.ctp:16 View/Users/view.ctp:43
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: View/Businesses/admin_view.ctp:104 View/Businesses/view.ctp:104
+#: View/Contacts/admin_related.ctp:5 View/Contacts/related.ctp:4
+msgid "Fullname"
+msgstr "Πλήρες όνομα"
+
+#: View/Businesses/admin_view.ctp:108 View/Contacts/admin_view.ctp:40
+#: View/Contacts/popover_view.ctp:22 View/Contacts/view.ctp:35
+#: View/Emails/html/contacts/view.ctp:65 View/Users/admin_view.ctp:61
+#: View/Users/me.ctp:43 View/Users/view.ctp:38
+msgid "Cellphone"
+msgstr "Κινητό"
+
+#: View/Businesses/admin_view.ctp:110 View/Businesses/view.ctp:109
+#: View/Contacts/admin_related.ctp:10 View/Contacts/admin_view.ctp:30
+#: View/Contacts/popover_view.ctp:12 View/Contacts/related.ctp:9
+#: View/Contacts/view.ctp:25
+msgid "Contact Type"
+msgstr "Τύπος Επαφής"
+
+#: View/Businesses/edit.ctp:97
+msgid "Add Contact"
+msgstr ""
+
+#: View/Businesses/index.ctp:17 View/Emails/html/contacts/view.ctp:118
+msgid "afm"
+msgstr "ΑΦΜ"
+
+#: View/Businesses/modal_edit.ctp:2 View/Emails/html/contacts/view.ctp:76
+msgid "Business Info"
+msgstr ""
+
+#: View/Businesses/modal_edit.ctp:11
+msgid "Fax"
+msgstr "Φαξ"
+
+#: View/Businesses/modal_edit.ctp:22 View/Businesses/popover_view.ctp:38
+#: View/Emails/html/businesses/view.ctp:60
+msgid "TK"
+msgstr "ΤΚ"
+
+#: View/Businesses/view.ctp:62 View/Contacts/add.ctp:146
+#: View/Contacts/edit.ctp:150
+#: View/Elements/modals/businesses/business-add.ctp:79
+msgid "Postal Code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+#: View/Cities/add.ctp:1 View/Cities/admin_index.ctp:1
+#: View/Cities/admin_view.ctp:1 View/Cities/edit.ctp:1 View/Cities/index.ctp:1
+#: View/Cities/view.ctp:1 View/Elements/navbars/admin.ctp:38;49
+#: View/Elements/navbars/manager.ctp:25 View/Elements/navbars/user.ctp:9
+#: View/States/admin_view.ctp:31 View/States/view.ctp:15
+msgid "Cities"
+msgstr "Πόλεις"
+
+#: View/Cities/add.ctp:6
+#, fuzzy
+msgid "Create City"
+msgstr "Δημιουργήθηκε"
+
+#: View/Cities/admin_related.ctp:5 View/Cities/related.ctp:4
+#: View/Groups/admin_view.ctp:12 View/Groups/view.ctp:12
+#: View/States/admin_index.ctp:6 View/States/admin_view.ctp:17
+#: View/States/index.ctp:5 View/Taxoffices/admin_view.ctp:18
+msgid "Name"
+msgstr "Όνομα"
+
+#: View/Cities/edit.ctp:8
+msgid "Edit City"
+msgstr ""
+
+#: View/ContactTypes/admin_add.ctp:2 View/ContactTypes/admin_edit.ctp:2
+#: View/ContactTypes/admin_view.ctp:2 View/ContactTypes/view.ctp:2
+#, fuzzy
+msgid "Contacts Types"
+msgstr "Τύποι επαφών"
+
+#: View/ContactTypes/admin_index.ctp:2 View/ContactTypes/index.ctp:2
+#: View/Elements/navbars/admin.ctp:45 View/Elements/navbars/user.ctp:16
+msgid "Contact Types"
+msgstr "Τύποι επαφών"
+
+#: View/ContactTypes/admin_view.ctp:14
+msgid "City view"
+msgstr ""
+
+#: View/ContactTypes/admin_view.ctp:22 View/ContractTypes/admin_view.ctp:12
+#: View/ContractTypes/view.ctp:8 View/DayOffTypes/admin_view.ctp:13
+#: View/DayOffTypes/view.ctp:9 View/DayOffs/admin_index.ctp:11
+#: View/DayOffs/index.ctp:11 View/Emails/html/tasks/index.ctp:57
+#: View/OfferTypes/admin_view.ctp:9 View/OfferTypes/view.ctp:9
+#: View/TaskTypes/admin_index.ctp:11 View/TaskTypes/admin_view.ctp:21
+#: View/TaskTypes/index.ctp:6 View/TaskTypes/view.ctp:13 View/Tasks/add.ctp:48
+#: View/Tasks/admin_add.ctp:55 View/Tasks/admin_related.ctp:8
+#: View/Tasks/admin_view.ctp:79 View/Tasks/related.ctp:4
+#: View/Tasks/view.ctp:78
+msgid "Type"
+msgstr "Τύπος"
+
+#: View/Contacts/add.ctp:74 View/Contacts/edit.ctp:78
+#: View/Elements/modals/businesses/business-add.ctp:4
+#, fuzzy
+msgid "Create New Business"
+msgstr "Νέα Επιχείρηση"
+
+#: View/Contacts/add.ctp:83 View/Contacts/edit.ctp:87
+#, fuzzy
+msgid "Comment"
+msgstr "Σχόλια"
+
+#: View/Contacts/admin_view.ctp:20 View/Contacts/popover_view.ctp:2
+#: View/Contacts/view.ctp:15 View/Users/admin_view.ctp:46 View/Users/me.ctp:28
+#: View/Users/view.ctp:23
+msgid "Lastname"
+msgstr "Επίθετο"
+
+#: View/Contacts/admin_view.ctp:25 View/Contacts/popover_view.ctp:7
+#: View/Contacts/view.ctp:20 View/Users/admin_view.ctp:41 View/Users/me.ctp:23
+#: View/Users/view.ctp:18
+msgid "Firstname"
+msgstr "Όνομα"
+
+#: View/Contacts/admin_view.ctp:82
+msgid "Phone one"
+msgstr "Τηλέφωνο 1"
+
+#: View/Contacts/admin_view.ctp:83
+msgid "Phone two"
+msgstr "Τηλέφωνο 2"
+
+#: View/Contacts/edit.ctp:11 View/Contracts/add.ctp:7
+#: View/Contracts/edit.ctp:8
+msgid "Details"
+msgstr ""
+
+#: View/Contacts/modal_edit.ctp:2 View/Emails/html/contacts/view.ctp:53
+msgid "Contact Info"
+msgstr ""
+
+#: View/Contacts/modal_edit.ctp:17
+msgid "email@email.com"
+msgstr ""
+
+#: View/ContractTypes/admin_add.ctp:1 View/ContractTypes/admin_edit.ctp:1
+#: View/ContractTypes/admin_index.ctp:1 View/ContractTypes/admin_view.ctp:1;23
+#: View/ContractTypes/index.ctp:1 View/ContractTypes/view.ctp:1;15
+#: View/Contracts/add.ctp:1 View/Contracts/admin_index.ctp:1
+#: View/Contracts/admin_view.ctp:1 View/Contracts/edit.ctp:1
+#: View/Contracts/index.ctp:1 View/Contracts/view.ctp:1
+#: View/Elements/navbars/admin.ctp:30 View/Elements/navbars/manager.ctp:17
+#: View/Elements/navbars/seller.ctp:2 View/Elements/navbars/tech.ctp:5
+#: View/Pages/home.ctp:27
+msgid "Contracts"
+msgstr "Συμβόλαια"
+
+#: View/ContractTypes/admin_add.ctp:2 View/ContractTypes/admin_edit.ctp:2
+#: View/ContractTypes/admin_index.ctp:2 View/ContractTypes/admin_view.ctp:2
+#: View/ContractTypes/index.ctp:2 View/ContractTypes/view.ctp:2
+#: View/Elements/navbars/admin.ctp:27 View/Elements/navbars/manager.ctp:14
+msgid "Contract Types"
+msgstr "Τύποι Συμβολαίων"
+
+#: View/ContractTypes/admin_view.ctp:6 View/ContractTypes/view.ctp:6
+#: View/Contracts/admin_view.ctp:17 View/Contracts/view.ctp:16
+msgid "Contract Type"
+msgstr "Τύπος Συμβολαίου"
+
+#: View/Contracts/admin_index.ctp:9;17;18 View/Contracts/index.ctp:9;17;18
+msgid "Expired"
+msgstr "Έληξαν"
+
+#: View/Contracts/admin_index.ctp:10 View/Contracts/index.ctp:10
+#: View/Users/admin_view.ctp:23
+msgid "Active"
+msgstr "Ενεργό"
+
+#: View/Contracts/admin_related.ctp:5 View/Contracts/related.ctp:5
+#, fuzzy
+msgid "contract_type_id"
+msgstr "Τύπος Συμβολαίου"
+
+#: View/Contracts/admin_related.ctp:6 View/Contracts/related.ctp:6
+#, fuzzy
+msgid "start"
+msgstr "Αρχή"
+
+#: View/Contracts/admin_related.ctp:7 View/Contracts/related.ctp:7
+#, fuzzy
+msgid "end"
+msgstr "Τέλος"
+
+#: View/Contracts/admin_related.ctp:8 View/Contracts/related.ctp:8
+#, fuzzy
+msgid "duration"
+msgstr "Διάρκεια"
+
+#: View/Contracts/admin_view.ctp:15 View/Contracts/view.ctp:14
+msgid "Contract"
+msgstr "Συμβόλαιο"
+
+#: View/Contracts/admin_view.ctp:22 View/Contracts/view.ctp:21
+msgid "Contract Start"
+msgstr "Αρχή Συμβολαίου"
+
+#: View/Contracts/admin_view.ctp:27 View/Contracts/view.ctp:26
+msgid "Contract End"
+msgstr "Λήξη Συμβολαίου"
+
+#: View/Contracts/admin_view.ctp:58 View/Contracts/view.ctp:57
+#: View/Emails/html/contacts/view.ctp:133 View/Emails/html/tasks/view.ctp:721
+#: View/Opportunities/admin_view.ctp:71 View/Opportunities/view.ctp:71
+#: View/Repairs/view.ctp:66 View/Tasks/admin_view.ctp:51
+#: View/Tasks/view.ctp:50
+msgid "website"
+msgstr ""
+
+#: View/DayOffTypes/admin_add.ctp:1 View/DayOffTypes/admin_index.ctp:1
+#: View/DayOffTypes/admin_view.ctp:1;24 View/DayOffTypes/index.ctp:1
+#: View/DayOffTypes/view.ctp:1;17 View/DayOffs/add.ctp:1
+#: View/DayOffs/admin_view.ctp:1 View/DayOffs/edit.ctp:1
+#: View/DayOffs/view.ctp:1 View/Elements/navbars/seller.ctp:5
+#: View/Elements/navbars/tech.ctp:6
+msgid "Day offs"
+msgstr "Άδειες"
+
+#: View/DayOffTypes/admin_add.ctp:2 View/DayOffTypes/admin_edit.ctp:2
+#: View/Elements/navbars/admin.ctp:58
+msgid "Day Off Types"
+msgstr "Τύποι αδειών"
+
+#: View/DayOffTypes/admin_add.ctp:7
+#, fuzzy
+msgid "Create a Day Off Type"
+msgstr "Τύποι αδειών"
+
+#: View/DayOffTypes/admin_edit.ctp:1 View/DayOffs/admin_index.ctp:1
+#: View/DayOffs/index.ctp:1 View/Elements/navbars/admin.ctp:57
+#: View/Elements/navbars/manager.ctp:33 View/Pages/home.ctp:41
+msgid "Day Offs"
+msgstr "Άδειες"
+
+#: View/DayOffTypes/admin_edit.ctp:9
+#, fuzzy
+msgid "Edit Day Off Type"
+msgstr "Τύποι αδειών"
+
+#: View/DayOffTypes/admin_index.ctp:2 View/DayOffTypes/admin_view.ctp:2
+#: View/DayOffTypes/index.ctp:2 View/DayOffTypes/view.ctp:2
+#, fuzzy
+msgid "Day off Types"
+msgstr "Τύποι αδειών"
+
+#: View/DayOffTypes/admin_view.ctp:7 View/DayOffTypes/view.ctp:7
+msgid "Day Off Type"
+msgstr "Τύποι αδειών"
+
+#: View/DayOffs/add.ctp:6
+msgid "Add Day Off"
+msgstr ""
+
+#: View/DayOffs/edit.ctp:7
+msgid "Edit Day Off"
+msgstr ""
+
+#: View/Departments/add.ctp:2 View/Departments/admin_index.ctp:2
+#: View/Departments/admin_view.ctp:2 View/Departments/edit.ctp:2
+#: View/Departments/index.ctp:2 View/Departments/view.ctp:2
+#: View/Elements/navbars/admin.ctp:46 View/Elements/navbars/user.ctp:17
+msgid "Departments"
+msgstr "Τμήματα"
+
+#: View/Departments/add.ctp:8
+#, fuzzy
+msgid "Create New Department"
+msgstr "Τμήμα"
+
+#: View/Departments/admin_view.ctp:20
+msgid "Department"
+msgstr "Τμήμα"
+
+#: View/Departments/edit.ctp:8
+msgid "Edit Department"
+msgstr ""
+
+#: View/Elements/footer.ctp:3
+msgid "Designed and Developed by %s"
+msgstr ""
+
+#: View/Elements/footer.ctp:4
+msgid "Currently v. %s"
+msgstr ""
+
+#: View/Elements/search.ctp:3 View/Elements/modals/businesses/filters.ctp:25
+#: View/Elements/modals/tasks/search.ctp:24
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: View/Elements/site.ctp:11 View/Users/me.ctp:2 View/Users/personal.ctp:2
+msgid "Personal"
+msgstr "Προσωπική"
+
+#: View/Elements/site.ctp:12
+#, fuzzy
+msgid "Change Passwrord"
+msgstr "Αλλαγή κωδικού"
+
+#: View/Elements/site.ctp:18
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: View/Elements/modals/businessTypes/business-type-add.ctp:5
+msgid "Add Business Type"
+msgstr ""
+
+#: View/Elements/modals/businesses/export.ctp:20
+#: View/Elements/modals/businesses/filters.ctp:27
+#: View/Helper/BootstrapFormHelper.php:338
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: View/Elements/modals/cities/city-add.ctp:4
+msgid "Add City"
+msgstr ""
+
+#: View/Elements/modals/opportunities/communication-add.ctp:5
+#: View/OpportunityCommunications/modal_add_for_related.ctp:1
+msgid "Add Opportunity Communication"
+msgstr ""
+
+#: View/Elements/modals/tasks/email.ctp:20
+#: View/Elements/modals/tasks/export.ctp:19
+#: View/Elements/modals/tasks/search.ctp:19
+msgid "From Date"
+msgstr "Από Ημερομηνία"
+
+#: View/Elements/modals/tasks/email.ctp:23
+#: View/Elements/modals/tasks/export.ctp:20
+#: View/Elements/modals/tasks/search.ctp:20
+msgid "To Date"
+msgstr "Έως Ημερομηνία"
+
+#: View/Elements/modals/taxoffices/taxoffice-add.ctp:5
+msgid "Add Taxoffice"
+msgstr "Προσθήκη ΔΟΥ"
+
+#: View/Elements/navbars/admin.ctp:5
+msgid "Types"
+msgstr "Τύποι"
+
+#: View/Elements/navbars/admin.ctp:6;18 View/Emails/html/tasks/index.ctp:58
+#: View/OfferStatuses/admin_view.ctp:9 View/OfferStatuses/view.ctp:9
+#: View/Opportunities/index.ctp:9 View/OpportunityStatuses/admin_index.ctp:2
+#: View/OpportunityStatuses/admin_view.ctp:9
+#: View/OpportunityStatuses/index.ctp:2 View/OpportunityStatuses/view.ctp:9
+#: View/TaskStatuses/admin_view.ctp:21 View/Tasks/add.ctp:49
+#: View/Tasks/admin_add.ctp:56 View/Tasks/admin_related.ctp:13
+#: View/Tasks/admin_view.ctp:84 View/Tasks/related.ctp:9
+#: View/Tasks/view.ctp:83
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: View/Elements/navbars/admin.ctp:7
+msgid "Priorities"
+msgstr "Προτεραιότητες"
+
+#: View/Elements/navbars/admin.ctp:11 View/Elements/navbars/manager.ctp:3
+#: View/Elements/navbars/tech.ctp:3 View/Pages/home.ctp:34
+#: View/Repairs/add.ctp:1 View/Repairs/admin_index.ctp:1
+#: View/Repairs/admin_view.ctp:1 View/Repairs/edit.ctp:1
+#: View/Repairs/index.ctp:1 View/Repairs/view.ctp:1
+msgid "Repairs"
+msgstr "Επισκευές"
+
+#: View/Elements/navbars/admin.ctp:17
+msgid "Campaings"
+msgstr "Καμπάνιες"
+
+#: View/Elements/navbars/admin.ctp:19 View/Opportunities/admin_view.ctp:30
+#: View/Opportunities/view.ctp:30 View/OpportunityChannels/admin_view.ctp:9
+#: View/OpportunityChannels/view.ctp:9
+msgid "Channel"
+msgstr "Κανάλι"
+
+#: View/Elements/navbars/admin.ctp:22 View/Elements/navbars/manager.ctp:10
+#: View/Elements/navbars/tech.ctp:4 View/Opportunities/add.ctp:1
+#: View/Opportunities/admin_index.ctp:1 View/Opportunities/admin_view.ctp:1
+#: View/Opportunities/edit.ctp:1 View/Opportunities/index.ctp:1
+#: View/Opportunities/view.ctp:1 View/OpportunityStatuses/admin_index.ctp:1
+#: View/OpportunityStatuses/index.ctp:1
+msgid "Opportunities"
+msgstr "Πιθανότητες"
+
+#: View/Elements/navbars/admin.ctp:23 View/Offers/admin_index.ctp:1
+msgid "Offers"
+msgstr "Προσφορές"
+
+#: View/Elements/navbars/admin.ctp:35 View/Elements/navbars/manager.ctp:22
+#: View/Elements/navbars/user.ctp:6
+msgid "Taxoffices"
+msgstr "ΔΟΥ"
+
+#: View/Elements/navbars/admin.ctp:37;48 View/Elements/navbars/manager.ctp:24
+#: View/Elements/navbars/user.ctp:8 View/States/admin_edit.ctp:1
+#: View/States/admin_index.ctp:1 View/States/admin_view.ctp:1
+#: View/States/index.ctp:1 View/States/view.ctp:1
+msgid "States"
+msgstr "Νομοί"
+
+#: View/Elements/navbars/admin.ctp:56 View/Groups/admin_add.ctp:2
+#: View/Groups/admin_edit.ctp:2 View/Groups/admin_view.ctp:2
+#: View/Groups/index.ctp:2 View/Groups/view.ctp:2
+msgid "Groups"
+msgstr "Ομάδες"
+
+#: View/Elements/navbars/admin.ctp:60
+msgid "Permissions"
+msgstr "Δικαιώματα"
+
+#: View/Elements/navbars/admin.ctp:61 View/Users/admin_view.ctp:94
+#: View/Users/me.ctp:54
+msgid "Logins"
+msgstr "Συνδέσεις"
+
+#: View/Elements/navbars/admin.ctp:64 View/Elements/navbars/manager.ctp:36
+#: View/Emails/html/tasks/view.ctp:690 View/Groups/admin_add.ctp:1
+#: View/Groups/admin_edit.ctp:1 View/Groups/admin_view.ctp:1
+#: View/Groups/index.ctp:1 View/Groups/view.ctp:1;25
+#: View/Tasks/admin_view.ctp:18 View/Tasks/view.ctp:17
+#: View/Users/admin_add.ctp:1 View/Users/admin_edit.ctp:1
+#: View/Users/admin_index.ctp:1 View/Users/admin_view.ctp:1
+#: View/Users/change_password.ctp:1 View/Users/index.ctp:1 View/Users/me.ctp:1
+#: View/Users/personal.ctp:1 View/Users/view.ctp:1
+msgid "Users"
+msgstr "Χρήστες"
+
+#: View/Elements/pagination/paging.ctp:2
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+"Σελίδα {:page} από {:pages}, προβάλλονται {:current} εγγραφές από σύνολο {:"
+"count}, αρχίζοντας από την εγγραφή {:start} και τελειώνει στην εγγραφή {:end}"
+
+#: View/Elements/site/logo.ctp:3
+msgid "Toggle navigation"
+msgstr ""
+
+#: View/Emails/html/Users/confirm.ctp:12
+#: View/Emails/html/Users/reset_password.ctp:3
+#: View/Emails/html/users/confirm.ctp:12
+#: View/Emails/html/users/reset_password.ctp:3
+#: View/Emails/html/Users/verification.ctp:12
+#: View/Emails/html/users/verification.ctp:12
+msgid "Hello %s,"
+msgstr ""
+
+#: View/Emails/html/Users/confirm.ctp:14 View/Emails/html/users/confirm.ctp:14
+#: View/Emails/html/Users/verification.ctp:14
+#: View/Emails/html/users/verification.ctp:14
+msgid "to validate your account, you must visit the URL below within 24 hours"
+msgstr ""
+
+#: View/Emails/html/Users/reset_password.ctp:5
+#: View/Emails/html/users/reset_password.ctp:5
+msgid "to change your password, you must visit the URL below"
+msgstr ""
+
+#: View/Emails/html/businesses/view.ctp:40
+msgid "Phone One"
+msgstr "Τηλέφωνο 1"
+
+#: View/Emails/html/businesses/view.ctp:44
+msgid "Phone Two"
+msgstr "Τηλέφωνο 2"
+
+#: View/Emails/html/contacts/view.ctp:20
+msgid "Contact info"
+msgstr ""
+
+#: View/Emails/html/contacts/view.ctp:22 View/Emails/html/tasks/view.ctp:749
+#: View/TaskTypes/admin_add.ctp:8 View/TaskTypes/admin_view.ctp:15
+msgid "Task Type"
+msgstr "Τύπος Εργασίας"
+
+#: View/Emails/html/contacts/view.ctp:32
+msgid "Title"
+msgstr "Τίτλος"
+
+#: View/Emails/html/contacts/view.ctp:37
+msgid "Summary"
+msgstr "Σύνοψη"
+
+#: View/Emails/html/contacts/view.ctp:42 View/Emails/html/tasks/index.ctp:59
+#: View/Emails/html/tasks/view.ctp:767 View/Tasks/admin_related.ctp:14
+#: View/Tasks/admin_view.ctp:97 View/Tasks/related.ctp:10
+#: View/Tasks/view.ctp:96
+msgid "Duration"
+msgstr "Διάρκεια"
+
+#: View/Emails/html/contacts/view.ctp:47 View/Emails/html/offers/view.ctp:961
+#: View/Groups/admin_view.ctp:21 View/Offers/view.ctp:117
+msgid "Date Created"
+msgstr "Ημερομηνία Δημιουργίας"
+
+#: View/Emails/html/offers/view.ctp:880 View/Emails/html/tasks/view.ctp:696
+#: View/Offers/view.ctp:36 View/Tasks/admin_index.backup.ctp:12;41
+#: View/Tasks/admin_index.ctp:12 View/Tasks/admin_view.ctp:24
+#: View/Tasks/index.backup.ctp:12 View/Tasks/index.ctp:12
+#: View/Tasks/view.ctp:23
+msgid "Responsible"
+msgstr "Υπεύθυνος"
+
+#: View/Emails/html/offers/view.ctp:890;901
+#: View/OfferStatuses/admin_view.ctp:2 View/OfferStatuses/view.ctp:2
+#: View/Offers/admin_view.ctp:42 View/Offers/view.ctp:46;57
+msgid "Offer Status"
+msgstr ""
+
+#: View/Emails/html/offers/view.ctp:917 View/Emails/html/tasks/view.ctp:703
+#: View/Offers/view.ctp:73 View/Opportunities/admin_view.ctp:53
+#: View/Opportunities/view.ctp:53
+msgid "Business Details"
+msgstr ""
+
+#: View/Emails/html/offers/view.ctp:940 View/Emails/html/tasks/view.ctp:728
+#: View/Offers/view.ctp:96 View/Opportunities/admin_view.ctp:78
+#: View/Opportunities/view.ctp:78
+msgid "Contact Details"
+msgstr ""
+
+#: View/Emails/html/offers/view.ctp:971 View/Offers/view.ctp:127
+msgid "Date sented"
+msgstr ""
+
+#: View/Emails/html/offers/view.ctp:981 View/Offers/view.ctp:137
+msgid "Date accepted"
+msgstr ""
+
+#: View/Emails/html/repairs/index.ctp:78 View/Repairs/admin_view.ctp:38
+#: View/Repairs/related.ctp:9 View/Repairs/view.ctp:25
+msgid "Received"
+msgstr ""
+
+#: View/Emails/html/repairs/index.ctp:79 View/Repairs/admin_view.ctp:43
+#: View/Repairs/related.ctp:10 View/Repairs/view.ctp:30
+msgid "Repaired"
+msgstr ""
+
+#: View/Emails/html/repairs/index.ctp:80 View/Offers/admin_view.ctp:47
+#: View/Repairs/admin_view.ctp:49 View/Repairs/view.ctp:35
+msgid "Sented"
+msgstr ""
+
+#: View/Emails/html/tasks/index.ctp:53
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: View/Emails/html/tasks/index.ctp:60 View/Tasks/add.ctp:56
+#: View/Tasks/admin_add.ctp:73 View/Tasks/admin_index.backup.ctp:42
+#: View/Tasks/admin_index.ctp:40 View/Tasks/admin_related.ctp:15
+#: View/Tasks/edit.ctp:60 View/Tasks/index.backup.ctp:40
+#: View/Tasks/index.ctp:41 View/Tasks/related.ctp:11
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#: View/Emails/html/tasks/view.ctp:745
+msgid "Task Properties"
+msgstr ""
+
+#: View/Emails/html/tasks/view.ctp:754 View/TaskStatuses/admin_view.ctp:15
+msgid "Task Status"
+msgstr "Κατάσταση Εργασίας"
+
+#: View/Emails/html/tasks/view.ctp:759 View/TaskPriorities/admin_view.ctp:15
+#: View/TaskPriorities/view.ctp:10
+msgid "Task Priority"
+msgstr "Προτεραιότητα Εργασίας"
+
+#: View/Emails/html/tasks/view.ctp:771 View/Tasks/admin_view.ctp:101
+#: View/Tasks/view.ctp:100
+msgid "Scheduled to end"
+msgstr ""
+
+#: View/Emails/html/tasks/view.ctp:775 View/Tasks/admin_view.ctp:105
+#: View/Tasks/view.ctp:104
+msgid "Completed on"
+msgstr "Ολοκληρώθηκε στις"
+
+#: View/Groups/admin_add.ctp:6
+#, fuzzy
+msgid "Add Group"
+msgstr "Ομάδα"
+
+#: View/Groups/admin_edit.ctp:7
+#, fuzzy
+msgid "Edit Group"
+msgstr "Ομάδα"
+
+#: View/Groups/admin_view.ctp:5 View/Groups/view.ctp:8
+#: View/Users/admin_index.ctp:23 View/Users/admin_related.ctp:8
+#: View/Users/admin_view.ctp:37 View/Users/me.ctp:19 View/Users/related.ctp:5
+msgid "Group"
+msgstr "Ομάδα"
+
+#: View/Groups/admin_view.ctp:27
+msgid "Date Modified"
+msgstr "Ημερομηνία Τροποποίησης"
+
+#: View/Helper/BootstrapFormHelper.php:306
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: View/Helper/BootstrapFormHelper.php:322 View/OfferStatuses/add.ctp:7
+#: View/OfferStatuses/admin_add.ctp:9 View/OfferStatuses/admin_edit.ctp:10
+#: View/OfferStatuses/edit.ctp:10 View/OfferTypes/admin_add.ctp:11
+#: View/OfferTypes/admin_edit.ctp:12
+#: View/OpportunityCommunications/admin_add.ctp:11
+#: View/OpportunityCommunications/admin_edit.ctp:12 View/Users/login.ctp:18
+msgid "Submit"
+msgstr "Αποδοχή"
+
+#: View/Helper/BootstrapHtmlHelper.php:341
+#: View/Tasks/admin_index.backup.ctp:24;86 View/Tasks/admin_index.ctp:24;115
+#: View/Tasks/index.backup.ctp:24 View/Tasks/index.ctp:24
+#: View/Tasks/mob/index.ctp:6
+msgid "Mail"
+msgstr ""
+
+#: View/Helper/BootstrapHtmlHelper.php:363
+#: View/OfferStatuses/admin_index.ctp:18 View/OfferStatuses/edit.ctp:16
+#: View/OfferTypes/admin_index.ctp:19
+#: View/OpportunityCommunications/admin_index.ctp:28
+#: View/Repairs/admin_view.ctp:10 View/Tasks/admin_view.ctp:11
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: View/Logins/admin_related.ctp:5
+msgid "browser"
+msgstr ""
+
+#: View/Logins/admin_related.ctp:6 View/Logins/admin_view.ctp:19
+msgid "IP"
+msgstr ""
+
+#: View/Logins/admin_related.ctp:7
+msgid "modified"
+msgstr "Τροποποιήθηκε"
+
+#: View/Logins/admin_view.ctp:2 View/Users/confirm.ctp:7
+#: View/Users/confirm_resend.ctp:6 View/Users/login.ctp:2
+#: View/Users/register.ctp:6 View/Users/reset_password.ctp:6
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: View/Logins/admin_view.ctp:14
+msgid "Browser"
+msgstr ""
+
+#: View/OfferStatuses/add.ctp:3
+msgid "Add Offer Status"
+msgstr ""
+
+#: View/OfferStatuses/admin_add.ctp:4
+msgid "Admin Add Offer Status"
+msgstr ""
+
+#: View/OfferStatuses/admin_edit.ctp:4
+msgid "Admin Edit Offer Status"
+msgstr ""
+
+#: View/OfferStatuses/admin_index.ctp:1 View/OfferStatuses/index.ctp:6
+msgid "Offer Statuses"
+msgstr ""
+
+#: View/OfferStatuses/admin_index.ctp:18 View/OfferStatuses/edit.ctp:16
+#: View/OfferTypes/admin_index.ctp:19
+#: View/OpportunityCommunications/admin_index.ctp:28
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/OfferStatuses/edit.ctp:4
+msgid "Edit Offer Status"
+msgstr ""
+
+#: View/OfferStatuses/edit.ctp:17
+msgid "List Offer Statuses"
+msgstr ""
+
+#: View/OfferStatuses/edit.ctp:18
+#, fuzzy
+msgid "List Offers"
+msgstr "Προσφορές"
+
+#: View/OfferStatuses/edit.ctp:19
+#, fuzzy
+msgid "New Offer"
+msgstr "Προσφορές"
+
+#: View/OfferTypes/admin_add.ctp:4
+msgid "Admin Add Offer Type"
+msgstr ""
+
+#: View/OfferTypes/admin_edit.ctp:4
+msgid "Admin Edit Offer Type"
+msgstr ""
+
+#: View/OfferTypes/admin_view.ctp:2 View/OfferTypes/view.ctp:2
+#: View/Offers/admin_index.ctp:15 View/Offers/index.ctp:14
+msgid "Offer Type"
+msgstr ""
+
+#: View/OfferTypes/admin_view.ctp:14 View/OfferTypes/view.ctp:14
+#: View/TaskPriorities/admin_index.ctp:7 View/TaskTypes/admin_index.ctp:10
+msgid "Order"
+msgstr "Σειρά"
+
+#: View/Offers/add.ctp:2 View/Offers/admin_add.ctp:2
+msgid "Create New Offer"
+msgstr ""
+
+#: View/Offers/add.ctp:58 View/Offers/admin_add.ctp:58
+msgid "Please first compress the file to upload it."
+msgstr ""
+
+#: View/Offers/admin_view.ctp:8 View/Offers/index.ctp:55
+#: View/Offers/view.ctp:8
+msgid "Download"
+msgstr ""
+
+#: View/Offers/admin_view.ctp:52
+msgid "Accepted"
+msgstr ""
+
+#: View/Offers/edit.ctp:2
+msgid "Edit Offer"
+msgstr ""
+
+#: View/Opportunities/admin_view.ctp:23 View/Opportunities/view.ctp:23
+#: View/Tasks/admin_add.ctp:8 View/Tasks/admin_view.ctp:75
+#: View/Tasks/view.ctp:74
+msgid "Properties"
+msgstr "Ιδιότητες"
+
+#: View/Opportunities/admin_view.ctp:25 View/Opportunities/view.ctp:25
+#: View/OpportunityCampaings/admin_view.ctp:9
+#: View/OpportunityCampaings/index.ctp:9 View/OpportunityCampaings/view.ctp:9
+msgid "Campaing"
+msgstr "Καμπάνια"
+
+#: View/Opportunities/admin_view.ctp:38 View/Opportunities/view.ctp:38
+#: View/Tasks/admin_add.ctp:9
+msgid "Dates"
+msgstr "Ημερομηνίες"
+
+#: View/Opportunities/admin_view.ctp:96 View/Opportunities/view.ctp:96
+msgid "Communications"
+msgstr ""
+
+#: View/OpportunityCampaings/admin_add.ctp:4
+msgid "Add Opportunity Campaing"
+msgstr ""
+
+#: View/OpportunityCampaings/admin_edit.ctp:2
+msgid "Admin Edit Opportunity Campaing"
+msgstr ""
+
+#: View/OpportunityCampaings/admin_view.ctp:2
+#: View/OpportunityCampaings/view.ctp:2
+msgid "Opportunity Campaing"
+msgstr ""
+
+#: View/OpportunityChannels/admin_add.ctp:2
+msgid "Add Opportunity Channel"
+msgstr ""
+
+#: View/OpportunityChannels/admin_edit.ctp:2
+msgid "Admin Edit Opportunity Channel"
+msgstr ""
+
+#: View/OpportunityChannels/admin_view.ctp:2
+#: View/OpportunityChannels/view.ctp:2
+msgid "Opportunity Channel"
+msgstr ""
+
+#: View/OpportunityCommunications/admin_add.ctp:4
+msgid "Admin Add Opportunity Communication"
+msgstr ""
+
+#: View/OpportunityCommunications/admin_edit.ctp:4
+msgid "Admin Edit Opportunity Communication"
+msgstr ""
+
+#: View/OpportunityCommunications/admin_index.ctp:2
+msgid "Opportunity Communications"
+msgstr ""
+
+#: View/OpportunityCommunications/admin_view.ctp:2
+msgid "Opportunity Communication"
+msgstr ""
+
+#: View/OpportunityCommunications/admin_view.ctp:14
+msgid "Opportunity"
+msgstr "Πιθανότητα"
+
+#: View/OpportunityStatuses/admin_add.ctp:2
+msgid "Admin Add Opportunity Status"
+msgstr ""
+
+#: View/OpportunityStatuses/admin_edit.ctp:2
+msgid "Admin Edit Opportunity Status"
+msgstr ""
+
+#: View/OpportunityStatuses/admin_view.ctp:2
+#: View/OpportunityStatuses/view.ctp:2
+msgid "Opportunity Status"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:2
+msgid "Dashboard"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:11
+msgid "Some stats"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:14
+msgid "<span class=\"badge\">%s</span> tasks completed today"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:17
+msgid "<span class=\"badge\">%s</span> tasks of all users"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:20
+msgid "<span class=\"badge\">%s</span> tasks pending of user %s"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:23
+msgid "<span class=\"badge\">%s</span> tasks of sale type pending"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:26
+msgid "<span class=\"badge\">%s</span> tasks are immediately"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:31
+msgid "Quick add"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:34
+#, fuzzy
+msgid "Create New Task"
+msgstr "Δημιουργία Εργασίας"
+
+#: View/Pages/dashboard.ctp:35
+msgid "Create New Repair"
+msgstr ""
+
+#: View/Pages/dashboard.ctp:38
+#, fuzzy
+msgid "Reports"
+msgstr "Εξαγωγή"
+
+#: View/Pages/dashboard.ctp:41
+#, fuzzy
+msgid "Mail Tasks"
+msgstr "Εργασίες"
+
+#: View/Pages/home.ctp:7
+msgid "The easy way to manage your tickets"
+msgstr ""
+
+#: View/Pages/home.ctp:20
+msgid "Customers"
+msgstr ""
+
+#: View/Repairs/add.ctp:7 View/Repairs/admin_view.ctp:14
+#: View/Repairs/edit.ctp:8 View/Repairs/view.ctp:13
+msgid "Repair"
+msgstr "Επισκευή"
+
+#: View/States/admin_edit.ctp:8
+#, fuzzy
+msgid "Edit State"
+msgstr "Επεξεργασία Συμβολαίου"
+
+#: View/TaskPriorities/admin_edit.ctp:2 View/TaskPriorities/admin_index.ctp:2
+#: View/TaskPriorities/admin_view.ctp:2 View/TaskPriorities/index.ctp:2
+#: View/TaskPriorities/view.ctp:2
+#, fuzzy
+msgid "Task Priorities"
+msgstr "Προτεραιότητα Εργασίας"
+
+#: View/TaskPriorities/admin_edit.ctp:9
+#, fuzzy
+msgid "Edit Task Priority"
+msgstr "Προτεραιότητα Εργασίας"
+
+#: View/TaskPriorities/admin_index.ctp:8 View/TaskPriorities/admin_view.ctp:21
+#: View/TaskPriorities/index.ctp:6 View/TaskPriorities/view.ctp:12
+#: View/Tasks/add.ctp:50 View/Tasks/admin_add.ctp:57
+#: View/Tasks/admin_index.backup.ctp:36 View/Tasks/admin_view.ctp:89
+#: View/Tasks/view.ctp:88
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+#: View/TaskPriorities/admin_index.ctp:9 View/TaskStatuses/admin_index.ctp:12
+#: View/TaskStatuses/admin_view.ctp:25 View/TaskTypes/admin_index.ctp:12
+#: View/TaskTypes/admin_view.ctp:25
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: View/TaskStatuses/admin_add.ctp:2 View/TaskStatuses/admin_edit.ctp:2
+#: View/TaskStatuses/admin_index.ctp:2 View/TaskStatuses/index.ctp:2
+#, fuzzy
+msgid "Tasks Statuses"
+msgstr "Κατάσταση Εργασίας"
+
+#: View/TaskStatuses/admin_add.ctp:8
+#, fuzzy
+msgid "Add Task State"
+msgstr "Κατάσταση Εργασίας"
+
+#: View/TaskStatuses/admin_edit.ctp:8
+#, fuzzy
+msgid "Edit Task Status"
+msgstr "Κατάσταση Εργασίας"
+
+#: View/TaskStatuses/admin_view.ctp:2 View/TaskStatuses/view.ctp:2
+#, fuzzy
+msgid "Tasks Status"
+msgstr "Κατάσταση Εργασίας"
+
+#: View/TaskTypes/admin_add.ctp:2 View/TaskTypes/admin_edit.ctp:2
+#: View/TaskTypes/admin_view.ctp:2 View/TaskTypes/view.ctp:2
+#, fuzzy
+msgid "Task Types"
+msgstr "Τύπος Εργασίας"
+
+#: View/TaskTypes/admin_edit.ctp:8
+#, fuzzy
+msgid "Edit Task Type"
+msgstr "Τύπος Εργασίας"
+
+#: View/TaskTypes/admin_index.ctp:2 View/TaskTypes/index.ctp:2
+#, fuzzy
+msgid "Tasks Types"
+msgstr "Τύπος Εργασίας"
+
+#: View/Tasks/add.ctp:7 View/Tasks/admin_add.ctp:7 View/Tasks/edit.ctp:9
+#, fuzzy
+msgid "Task"
+msgstr "Εργασίες"
+
+#: View/Tasks/add.ctp:55 View/Tasks/admin_add.ctp:72 View/Tasks/edit.ctp:59
+#, fuzzy
+msgid "Target"
+msgstr "Ημερομηνία προς Ολοκλήρωση"
+
+#: View/Tasks/admin_index.backup.ctp:9 View/Tasks/admin_index.ctp:9
+#: View/Tasks/index.backup.ctp:9 View/Tasks/index.ctp:9
+msgid "All"
+msgstr "Όλα"
+
+#: View/Tasks/admin_index.backup.ctp:10;19 View/Tasks/admin_index.ctp:10;19
+#: View/Tasks/index.backup.ctp:10;19 View/Tasks/index.ctp:10;19
+msgid "My"
+msgstr "Δικά μου"
+
+#: View/Tasks/admin_index.backup.ctp:11;20;27
+#: View/Tasks/admin_index.ctp:11;20;27 View/Tasks/index.backup.ctp:11;20;27
+#: View/Tasks/index.ctp:11;20;27 View/Tasks/mob/admin_index.ctp:6
+#: View/Tasks/mob/index.ctp:9
+msgid "Today"
+msgstr "Σήμερα"
+
+#: View/Tasks/mob/admin_index.ctp:15
+#, fuzzy
+msgid "Created by "
+msgstr "Δημιουργήθηκε"
+
+#: View/Taxoffices/add.ctp:2 View/Taxoffices/admin_edit.ctp:2
+#: View/Taxoffices/admin_index.ctp:2 View/Taxoffices/admin_view.ctp:2
+#: View/Taxoffices/index.ctp:2 View/Taxoffices/view.ctp:2
+msgid "Tax Offices"
+msgstr "ΔΟΥ"
+
+#: View/Taxoffices/add.ctp:8
+msgid "Add Tax Office"
+msgstr "Προσθήκη ΔΟΥ"
+
+#: View/Taxoffices/admin_edit.ctp:10
+msgid "Edit Tax Office"
+msgstr "Επεξεργασία ΔΟΥ"
+
+#: View/Users/admin_edit.ctp:15
+msgid "Calendar"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:28
+msgid "Background Color"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:29
+msgid "Font Color"
+msgstr ""
+
+#: View/Users/admin_index.ctp:5
+msgid "ACL"
+msgstr ""
+
+#: View/Users/admin_index.ctp:11
+msgid "Drop ACO/ARO"
+msgstr ""
+
+#: View/Users/admin_index.ctp:12
+msgid "Drop Permisions"
+msgstr ""
+
+#: View/Users/admin_related.ctp:5
+#, fuzzy
+msgid "active"
+msgstr "Ενεργό"
+
+#: View/Users/admin_related.ctp:6
+#, fuzzy
+msgid "verified"
+msgstr "Επιβεβαιωμένο"
+
+#: View/Users/admin_related.ctp:7 View/Users/related.ctp:4
+#, fuzzy
+msgid "username"
+msgstr "Χρήστης"
+
+#: View/Users/admin_related.ctp:8 View/Users/related.ctp:5
+#, fuzzy
+msgid "Group.id"
+msgstr "Ομάδα"
+
+#: View/Users/admin_related.ctp:9 View/Users/related.ctp:6
+#, fuzzy
+msgid "firstname"
+msgstr "Όνομα"
+
+#: View/Users/admin_related.ctp:10 View/Users/related.ctp:7
+#, fuzzy
+msgid "lastname"
+msgstr "Επίθετο"
+
+#: View/Users/admin_related.ctp:11 View/Users/related.ctp:8
+#: Model/User.php:validation for field email;validation token_email_expires
+msgid "email"
+msgstr ""
+
+#: View/Users/admin_related.ctp:12
+#, fuzzy
+msgid "phone"
+msgstr "Τηλέφωνο"
+
+#: View/Users/admin_related.ctp:13
+#, fuzzy
+msgid "cellphone"
+msgstr "Κινητό"
+
+#: View/Users/admin_related.ctp:14
+msgid "created"
+msgstr "δημιουργήθηκε"
+
+#: View/Users/admin_related.ctp:15
+msgid "updated"
+msgstr "ενημερώθηκε"
+
+#: View/Users/admin_view.ctp:10 View/Users/me.ctp:8
+msgid "Renew Token"
+msgstr ""
+
+#: View/Users/admin_view.ctp:11
+msgid "Renew Token Email"
+msgstr ""
+
+#: View/Users/admin_view.ctp:15
+msgid "View user"
+msgstr ""
+
+#: View/Users/admin_view.ctp:28
+msgid "Verified"
+msgstr "Επιβεβαιωμένο"
+
+#: View/Users/admin_view.ctp:33 View/Users/me.ctp:15 View/Users/view.ctp:14
+msgid "Username"
+msgstr "Χρήστης"
+
+#: View/Users/admin_view.ctp:66
+msgid "Token"
+msgstr ""
+
+#: View/Users/admin_view.ctp:71
+msgid "Token Email"
+msgstr ""
+
+#: View/Users/admin_view.ctp:76
+msgid "Date created"
+msgstr ""
+
+#: View/Users/admin_view.ctp:83
+msgid "Date updated"
+msgstr ""
+
+#: View/Users/change_password.ctp:2;8
+msgid "Change Password"
+msgstr "Αλλαγή κωδικού"
+
+#: View/Users/confirm.ctp:3
+#, fuzzy
+msgid "Confirmed"
+msgstr "Επιβεβαίωση"
+
+#: View/Users/confirm.ctp:8 View/Users/confirm_resend.ctp:7
+#: View/Users/login.ctp:7 View/Users/register.ctp:7
+msgid "Reset password"
+msgstr ""
+
+#: View/Users/confirm.ctp:9 View/Users/confirm_resend.ctp:8
+#: View/Users/login.ctp:8 View/Users/register.ctp:8
+#: View/Users/reset_password.ctp:8
+msgid "Resend confirmation"
+msgstr "Επαναποστολή επιβεβαίωσης"
+
+#: View/Users/confirm_resend.ctp:2
+#, fuzzy
+msgid "Resend Confirmation Email"
+msgstr "Επαναποστολή επιβεβαίωσης"
+
+#: View/Users/confirm_resend.ctp:15 View/Users/reset_password.ctp:15
+msgid "Send"
+msgstr ""
+
+#: View/Users/login.ctp:6 View/Users/register.ctp:2;23
+#: View/Users/reset_password.ctp:7
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: View/Users/new_password.ctp:3;9
+msgid "Set new password"
+msgstr ""
+
+#: View/Users/reset_password.ctp:2
+#, fuzzy
+msgid "Reset Password"
+msgstr "Κωδικός"
+
+#: Model/Appointment.php:validation for field user_id
+msgid "Insert a valid user id"
+msgstr ""
+
+#: Model/Appointment.php:validation for field date_start;validation date_end
+#: Model/Business.php:validation firm Model/BusinessType.php:validation type
+#: Model/City.php:validation name Model/ContactType.php:validation
+#: Model/Group.php:validation Model/Opportunity.php:validation description
+#: Model/Repair.php:validation Model/State.php:validation
+#: Model/Task.php:validation Model/TaskPriority.php:validation order
+#: Model/User.php:validation firstname;validation lastname
+msgid "notempty"
+msgstr ""
+
+#: Model/Appointment.php:validation for field date_start;validation date_end
+msgid "Insert a valid date time"
+msgstr ""
+
+#: Model/Bank.php:validation for field name Model/BankAccount.php:validation
+#: bank_account;validation IBAN Model/ContractType.php:validation type
+#: Model/Login.php:validation browser;validation IP
+#: Model/OfferType.php:validation Model/OpportunityCampaing.php:validation
+#: campaing Model/OpportunityChannel.php:validation channel
+#: Model/OpportunityStatus.php:validation status Model/User.php:validation
+#: username;validation password
+msgid "notEmpty"
+msgstr ""
+
+#: Model/BankAccount.php:validation for field bank_id
+#: Model/BusinessContact.php:validation id;validation business_id;validation
+#: contact_id Model/City.php:validation state_id Model/Contract.php:validation
+#: contract_type_id Model/DayOff.php:validation day_off_type_id
+#: Model/Login.php:validation user_id Model/Offer.php:validation
+#: user_id;validation status_id Model/Opportunity.php:validation
+#: users_id;validation status_id;validation campaing_id;validation channel_id
+#: Model/OpportunityCommunication.php:validation opportunity_id;validation
+#: Model/Repair.php:validation Model/Task.php:validation
+#: Model/TaskAction.php:validation task_id;validation
+#: Model/TaskPriority.php:validation order
+msgid "numeric"
+msgstr ""
+
+#: Model/Business.php:validation for field business
+msgid "Business field must not be empty"
+msgstr ""
+
+#: Model/Business.php:validation for field firm
+msgid "This firm must be unique."
+msgstr "Η φίρμα πρέπει να είναι μοναδική"
+
+#: Model/Business.php:validation for field phone_one;validation
+#: phone_two;validation fax Model/Contact.php:validation phone;validation
+#: cellphone
+msgid "There is no phone with less than 10 digits."
+msgstr ""
+
+#: Model/Business.php:validation for field afm
+msgid "There is no afm with less than 9 digits."
+msgstr ""
+
+#: Model/Business.php:validation for field email Model/Contact.php:validation
+msgid "Enter a valid email."
+msgstr ""
+
+#: Model/BusinessType.php:validation for field type
+msgid "The business type already exists."
+msgstr ""
+
+#: Model/City.php:validation for field name
+msgid "The city already exists in the current state"
+msgstr ""
+
+#: Model/Contact.php:validation for field lastname
+msgid "You have to enter a lastname"
+msgstr ""
+
+#: Model/ContactType.php:validation for field type
+msgid "The contact type already exists."
+msgstr ""
+
+#: Model/Contract.php:validation for field start;validation end
+#: Model/Group.php:validation created;validation updated
+#: Model/Task.php:validation Model/TaskType.php:validation modified
+#: Model/Taxoffice.php:validation
+msgid "datetime"
+msgstr ""
+
+#: Model/ContractType.php:validation for field type
+msgid "The contract type already exists."
+msgstr ""
+
+#: Model/DayOff.php:validation for field user_id
+msgid "You have to select a user"
+msgstr ""
+
+#: Model/DayOff.php:validation for field date_start;validation date_end
+#: Model/Task.php:validation date_target;validation date_completed
+msgid "Insert a valid date"
+msgstr ""
+
+#: Model/DayOffType.php:validation for field type
+#: Model/TaskType.php:validation
+msgid "The type field must not be empty."
+msgstr ""
+
+#: Model/DayOffType.php:validation for field type
+msgid "The day off type already exists"
+msgstr ""
+
+#: Model/Department.php:validation for field department
+msgid "Your department field must not be empty"
+msgstr ""
+
+#: Model/Department.php:validation for field department
+msgid "The department already exists"
+msgstr ""
+
+#: Model/Group.php:validation for field name
+msgid "This group must be unique."
+msgstr ""
+
+#: Model/Offer.php:validation for field file
+msgid "The file must be in english characters"
+msgstr ""
+
+#: Model/Offer.php:validation for field file
+msgid "Please supply a compressed file."
+msgstr ""
+
+#: Model/OfferStatus.php:validation for field status
+msgid "The status field must not be empty"
+msgstr ""
+
+#: Model/OfferStatus.php:validation for field status
+msgid "The offer status already exists."
+msgstr ""
+
+#: Model/OfferType.php:validation for field order
+msgid "The order field must be a digit"
+msgstr ""
+
+#: Model/State.php:validation for field name
+msgid "This state must be unique."
+msgstr ""
+
+#: Model/Task.php:validation for field duration
+msgid "Duration is required"
+msgstr ""
+
+#: Model/TaskPriority.php:validation for field priority
+msgid "The priority field must not be empty."
+msgstr ""
+
+#: Model/TaskPriority.php:validation for field priority
+msgid "The priority already exists."
+msgstr ""
+
+#: Model/TaskStatus.php:validation for field status
+msgid "The status field must not be empty."
+msgstr ""
+
+#: Model/TaskStatus.php:validation for field status
+msgid "The task status already exists."
+msgstr ""
+
+#: Model/TaskType.php:validation for field type
+msgid "The task type already exists."
+msgstr ""
+
+#: Model/Taxoffice.php:validation for field name
+msgid "The name must not be empty"
+msgstr ""
+
+#: Model/Taxoffice.php:validation for field name
+msgid "The taxoffice already exists"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "This username is already in use."
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "The username must be alphanumeric."
+msgstr ""
+
+#: Model/User.php:validation for field password;validation new_password
+msgid "The password must have at least 6 characters."
+msgstr ""
+
+#: Model/User.php:validation for field firstname
+msgid "The firstname must be alphanumeric."
+msgstr ""
+
+#: Model/User.php:validation for field lastname
+msgid "The lastname must be alphanumeric."
+msgstr ""
+
+#: Model/User.php:validation for field email;validation token_email_expires
+msgid "This email is already in use."
+msgstr ""
+
+#: Model/User.php:validation for field new_password
+msgid "The new password must be different from the old"
+msgstr ""
+
+#: Model/User.php:validation for field old_password
+msgid "Invalid password"
+msgstr ""
+
+#: Model/User.php:validation for field verify_password
+msgid "The passwords are not equal."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:52
+msgid "-> Testing :url"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:77
+msgid "Total Requests made: :requests"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:78
+msgid "Total Time elapsed: :duration (seconds)"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:82
+msgid "Requests/Second: :rps req/sec"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:86
+msgid "Average request time: :average-time seconds"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:90
+msgid "Standard deviation of average request time: :std-dev"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:94
+msgid "Longest/shortest request: :longest sec/:shortest sec"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:143
+msgid "DebugKit Benchmark Shell"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:145
+msgid ""
+"\tAllows you to obtain some rough benchmarking statistics \n"
+"\tabout a fully qualified URL."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:147
+msgid "\tUse:"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:148
+msgid "\t\tcake benchmark [-n iterations] [-t timeout] url"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:150
+msgid "\tParams:"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:151
+msgid ""
+"\t\t-n Number of iterations to perform. Defaults to 10. \n"
+"\t\t   Must be an integer."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:152
+msgid ""
+"\t\t-t Maximum total time for all iterations, in seconds. \n"
+"\t\t   Defaults to 100. Must be an integer."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:154
+msgid ""
+"\tIf a single iteration takes more than the \n"
+"\ttimeout specified, only one request will be made."
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:156
+msgid "\tExample Use:"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:157
+msgid "\t\tcake benchmark -n 10 -t 100 http://localhost/testsite"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/BenchmarkShell.php:159
+msgid "\tNote that this benchmark does not include browser render time"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:155
+msgid "Component initialization"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:274
+#, fuzzy
+msgid "Controller action"
+msgstr "Συμβόλαιο"
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:277
+#, fuzzy
+msgid "Controller action start"
+msgstr "Αρχή Συμβολαίου"
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:292
+msgid "Processing toolbar state"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:313
+msgid "Processing toolbar data"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:348
+msgid "Controller render start"
+msgstr ""
+
+#: Plugin/DebugKit/Controller/Component/ToolbarComponent.php:428
+msgid "Could not load DebugToolbar panel %s"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/DebugTimer.php:130
+msgid "Core Processing (Derived from $_SERVER[\"REQUEST_TIME\"])"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:300
+msgid "Headers already sent in %s on line %s. Cannot send log data to FirePHP."
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:321
+msgid "Incorrect parameter count for FireCake::fb()"
+msgstr ""
+
+#: Plugin/DebugKit/Lib/FireCake.php:400
+msgid "Maximum number (99,999) of messages reached!"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/debug_toolbar.ctp:25
+msgid "There are no active panels. You must enable a panel to see its output."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:21
+msgid "Request History"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:23
+msgid "No previous requests logged."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:25
+msgid "previous requests available"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/history_panel.ctp:27
+msgid "Restore to current request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/include_panel.ctp:21
+msgid "Included Files"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:21
+msgid "Logs"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:29
+msgid "Time"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:29
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:44;68
+msgid "Message"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/log_panel.ctp:40
+msgid "There were no log entries made this request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:21
+msgid "Request"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:29
+msgid "No post data."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:38
+msgid "No querystring data."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/request_panel.ctp:51
+msgid "Current Route"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/session_panel.ctp:21
+#, fuzzy
+msgid "Session"
+msgstr "Δικαιώματα"
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:25
+msgid "Sql Logs"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:39
+msgid "Total Time: %s ms <br />Total Queries: %s queries"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:48
+msgid "Query Explain:"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:51
+msgid "Click an \"Explain\" link above, to see the query explanation."
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/sqllog_panel.ctp:56
+msgid "No active database connections"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:37
+msgid "Memory"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:40
+msgid "Peak Memory Use"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:44
+msgid "Memory use"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:57
+msgid "Timers"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:59
+msgid "%s (ms)"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:60
+msgid "Total Request Time:"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:69
+msgid "Time in ms"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/timer_panel.ctp:70
+msgid "Graph"
+msgstr ""
+
+#: Plugin/DebugKit/View/Elements/variables_panel.ctp:21
+msgid "View Variables"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:44
+msgid "Rendering View"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:59
+msgid "Rendering %s"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/DebugTimerHelper.php:85
+msgid "View render complete"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/HtmlToolbarHelper.php:191
+msgid "Explain"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/SimpleGraphHelper.php:80
+msgid "Starting %sms into the request, taking %sms"
+msgstr ""
+
+#: Plugin/DebugKit/View/Helper/TidyHelper.php:108
+#, fuzzy
+msgid "No markup errors found"
+msgstr "Δεν βρέθηκε διεύθυνση"
+
+#: Plugin/DebugKit/View/Helper/ToolbarHelper.php:187
+msgid "maybe slow"
+msgstr ""
+
+#: Plugin/DebugKit/Console/Command/WhitespaceShell.php:89
+msgid "Absolute path or relative to APP."
+msgstr ""
+
+#: Plugin/Dropbox/Controller/Component/DropboxApiComponent.php:90
+msgid ""
+"Please create your dropbox_token and dropbox_token_secret fields in your "
+"user model."
+msgstr ""
+
+#: Plugin/Dropbox/Model/Datasource/DropboxSource.php:185
+msgid "Error decoding json, run json_last_error() after to see the error code."
+msgstr ""
+
+#: Plugin/Dropbox/Model/Datasource/DropboxSource.php:215
+msgid "Sorry, that find method is not supported."
+msgstr ""
+
+#: View/Errors/error400.ctp:20 View/Errors/error500.ctp:21
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:22
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Layouts/dashboard.ctp:6 View/Layouts/default.ctp:6
+#: View/Layouts/pages.ctp:6
+msgid "Portable CRM"
+msgstr ""
+
+#: View/Layouts/error.ctp:18
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: webroot/test.php:95
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#~ msgid "Doy"
+#~ msgstr "ΔΟΥ"
+
+#~ msgid "Doys"
+#~ msgstr "ΔΟΥ"
+
+#, fuzzy
+#~ msgid "Add Task Priority"
+#~ msgstr "Προτεραιότητα Εργασίας"
+
+#~ msgid "firm"
+#~ msgstr "Φίρμα"
+
+#~ msgid "business"
+#~ msgstr "Επιχείριση"
+
+#~ msgid "Add a comment..."
+#~ msgstr "Προσθήκη σχολίου..."
+
+#~ msgid "Last Update"
+#~ msgstr "Τελευταία Ενημέρωση"
+
+#~ msgid "Day Off"
+#~ msgstr "Άδεια"
+
+#~ msgid "businesses"
+#~ msgstr "επιχειρήσεις"
+
+#~ msgid "Task Description"
+#~ msgstr "Περιγραφή Εργασίας"
+
+#~ msgid "Date Completed"
+#~ msgstr "Ημερομηνία ολοκλήρωσης"
+
+#~ msgid "previous"
+#~ msgstr "Προηγούμενο"
+
+#~ msgid "next"
+#~ msgstr "Επόμενο"
+
+#~ msgid "New Task"
+#~ msgstr "Νέα εργασία"
+
+#~ msgid "New Users"
+#~ msgstr "Νέος Χρήστης"

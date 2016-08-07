@@ -1,0 +1,349 @@
+body {
+    padding-top: 50px;
+    font-family: Roboto, Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 0;
+    }
+}
+
+.table-limited td {
+    max-width: 350px;
+}
+
+.table > tbody > tr > td.actions {
+    white-space: nowrap;
+}
+
+form .nav.nav-pills,
+form .nav.nav-tabs {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 480px) {
+    .nav-tabs > li {
+        float: none;
+    }
+}
+
+.breadcrumb {
+    margin: 20px 0;
+}
+
+/**
+ * Classes used for the navigation bar
+ */
+.navbar-brand {
+    width: 190px;
+}
+
+@media (max-width: 768px) {
+    .navbar-fixed-top {
+        position: relative;
+    }
+}
+
+.sidebar > .sidebar-nav {
+    float: none;
+    display: block;
+}
+
+.sidebar .nav > li {
+    position: relative;
+}
+
+.sidebar .nav > li > a {
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    position: relative;
+    padding: 10px 15px;
+    outline: medium none;
+    text-decoration: none;
+}
+
+.sidebar-inverse .nav > li > a {
+    background-color: #414141;
+    color: #bbbbbb;
+}
+
+.sidebar-inverse .nav > li > a:hover,
+.sidebar-inverse .nav > li > a:focus {
+    color: #ffffff;
+    background-color: #222;
+}
+
+.sidebar-inverse .sidebar-nav > .active > a,
+.sidebar-inverse .sidebar-nav > .active > a:hover,
+.sidebar-inverse .sidebar-nav > .active > a:focus {
+    background-color: #080808;
+    color: #ffffff;
+}
+
+dl dt:after {
+    content: ": \00a0";
+}
+
+.dl-horizontal dt,
+.dl-horizontal dd {
+    line-height: 1.8;
+}
+
+.dl-left dt {
+    text-align: left;
+}
+
+.dl-table dt,
+.dl-table dd {
+    text-align: left;
+    font-weight: normal;
+}
+
+.dl-table dt {
+    padding: 8px;
+}
+
+.dl-table dd {
+    padding-top: 8px;
+}
+
+.dl-table dd:after,
+.dl-table dd:before {
+    display: table;
+    content: " ";
+}
+
+.dl-table dd:after {
+    clear: both;
+}
+
+.dl-table > dt:nth-of-type(odd),
+.dl-table > dd:nth-of-type(odd) {
+    background-color: #f5f5f5;
+}
+
+@media (min-width: 768px) {
+
+    .dl-table dt {
+        float: left;
+        width: 160px;
+        overflow: hidden;
+        clear: left;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .dl-table dd {
+        margin-left: 160px;
+    }
+
+    .dl-auto dt,
+    .dl-auto dd {
+        line-height: 1.8;
+    }
+
+    .dl-auto dt {
+        float: left;
+        width: auto;
+        overflow: hidden;
+        clear: left;
+        text-align: left;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .dl-auto dd {
+        margin-left: 0;
+    }
+
+    .dl-popover {
+        margin: 0;
+    }
+
+    .dl-popover dt {
+        float: left;
+        width: 120px;
+        clear: left;
+        text-align: right;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .dl-popover dd {
+        margin-left: 130px;
+    }
+
+    .dl-popover dd:before,
+    .dl-popover dd:after {
+        content: " ";
+        display: table;
+    }
+
+    .dl-popover dd:after {
+        clear: both;
+    }
+
+    .dl-popover dd:before,
+    .dl-popover dd:after {
+        content: " ";
+        display: table;
+    }
+
+    .dl-popover dd:after {
+        clear: both;
+    }
+}
+
+form .required label:after {
+    color: #EE3322;
+    content: " *";
+    display: inline;
+}
+
+.input-horizontal .control-label,
+.input-horizontal .radio,
+.input-horizontal .checkbox,
+.input-horizontal .radio-inline,
+.input-horizontal .checkbox-inline {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 7px;
+}
+
+.input-horizontal .radio,
+.input-horizontal .checkbox {
+    min-height: 27px;
+}
+
+.input-horizontal.form-group {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.input-horizontal.form-group:before,
+.input-horizontal.form-group:after {
+    content: " ";
+    display: table;
+}
+
+.input-horizontal.form-group:after {
+    clear: both;
+}
+
+.input-horizontal.form-group:before,
+.input-horizontal.form-group:after {
+    content: " ";
+    display: table;
+}
+
+.input-horizontal.form-group:after {
+    clear: both;
+}
+
+.input-horizontal .form-control-static {
+    padding-top: 7px;
+}
+
+@media (min-width: 768px) {
+    .input-horizontal .control-label {
+        text-align: right;
+    }
+}
+
+/**
+ * Toolbar
+ */
+.toolbar {
+    margin: 0 0 20px;
+}
+
+.toolbar-default {
+}
+
+.toolbar-form {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: -15px;
+    margin-right: -15px;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+@media (min-width: 768px) {
+    .toolbar-form .form-group {
+        display: inline-block;
+        margin-bottom: 0;
+        vertical-align: middle;
+    }
+
+    .toolbar-form .form-control {
+        display: inline-block;
+    }
+
+    .toolbar-form select.form-control {
+        width: auto;
+    }
+
+    .toolbar-form .radio,
+    .toolbar-form .checkbox {
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
+    }
+
+    .toolbar-form .radio input[type="radio"],
+    .toolbar-form .checkbox input[type="checkbox"] {
+        float: none;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .toolbar-form .form-group {
+        margin-bottom: 5px;
+    }
+}
+
+@media (min-width: 768px) {
+    .toolbar-form {
+        width: auto;
+        border: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+    .toolbar-form.toolbar-right:last-child {
+        /** margin-right : - 15 px; **/
+    }
+}
+
+@media (min-width: 768px) {
+    .toolbar-left {
+        float: left !important;
+    }
+
+    .toolbar-right {
+        float: right !important;
+    }
+}
+
+.footer,
+footer {
+    padding: 40px 0;
+    border-top: 1px solid #eee;
+}
+
+@media (min-width: 768px) {
+    .footer,
+    footer {
+        margin-top: 50px;
+    }
+}

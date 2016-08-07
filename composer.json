@@ -1,0 +1,81 @@
+{
+	"name": "cakeoven/cakerm",
+	"description": "A CRM built with cakephp",
+	"type": "library",
+	"keywords": [
+		"CRM",
+		"CakePHP"
+	],
+	"homepage": "http://cakephp.org",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "gmponos",
+			"email": "gmponos@gmail.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/gmponos/CakeRM/issues"
+	},
+	"require": {
+		"cakephp/cakephp": "2.8.*",
+		"php": ">=5.3.0",
+		"ext-mcrypt": "*",
+		"cakeoven/cakebootstrap": "2.*",
+		"cakeoven/qtip": "0.*",
+		"cakeoven/cake_csv": "2.*",
+		"cakeoven/calendar": "0.*",
+		"cakeoven/cakemap": "2.*",
+		"ceeram/clear_cache": "*",
+		"fmcorz/acl-manager": "^1.2",
+		"vlucas/phpdotenv": "^2.3"
+	},
+	"require-dev": {
+		"maldicore/backups": "dev-master",
+		"cakephp/debug_kit": "^2.2.0",
+		"markstory/acl_extras": "dev-master",
+		"squizlabs/php_codesniffer": "~2.4",
+		"phpunit/phpunit": "3.7.*"
+	},
+	"bin": [
+		"lib/Cake/Console/cake"
+	],
+	"config": {
+		"vendor-dir": "Vendor/"
+	},
+	"minimum-stability": "stable",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/cakeoven/AclManager.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/cakeoven/CakeQTip.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/cakeoven/calendar.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/cakeoven/CakeCSV.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/cakeoven/CakeMap.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/ceeram/clear_cache.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/markstory/acl_extras.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:cakeoven/Backups.git"
+		}
+	]
+}
