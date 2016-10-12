@@ -222,11 +222,10 @@ class Business extends AppModel {
 	}
 
 	/**
-	 * Queries the datasource and returns a result set array of businesses with
-	 * contact id given as seond param.
+	 * Queries the data source and returns a result set array of businesses with
+	 * contact id given as send param.
 	 *
-	 * @param string  $type
-	 * (all / first / count / neighbors / list / threaded)
+	 * @param string  $type (all / first / count / neighbors / list / threaded)
 	 * @param integer $contact_id
 	 * @return array
 	 * @throws NotFoundException
